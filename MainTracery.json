@@ -1,15 +1,12 @@
 {
     "origin": [
-       "#sympathy#",
         "#sympathy#\n#gesture#",
-        "#sympathy# #emoji#",
-        "#wishes#",
         "#wishes#\n#gesture#",
-        "#wishes# #emoji#",
-        "#distractions# #emoji#",
         "#distractions#\n#gesture#",
         "#compliments# #emoji#",
-        "Reminder: #reminders#"
+        "Reminder: #reminders#",
+        "#toughlove#"
+        
     ],
     "compliments response" : [
         "#compliments#",
@@ -332,7 +329,6 @@
     "gesture": [
         "",
         "",
-        "",
         "xxoo",
         "Let me offer this shy but heartfelt pat on the back.",
         "<hug>",
@@ -360,7 +356,8 @@
         "play a game",
         "giggle at #twitter_handle# together",
         "get a snack: #emoji_snacks#",
-        "talk about something else entirely"
+        "talk about something else entirely",
+        "listen to music, you choose"
     ],
     "time": [
         "next week",
@@ -448,7 +445,45 @@
         "It is ok to say something like \n *I’m so sorry, that must feel #awful#. I really think it’s time to call in the cavalry and get some professional help.*",
         "Thank you to Kelsey Crowe and Emily McDowell. Their book _There Is No Good Card For This_ is a great resource on how to be a good friend.",
         "Captain Awkward (https://captainawkward.com/) is an amazing resource for what to say and how to say it.",
-        "#kindness.capitalize# is built in layers, like #layeredthings#."
+        "#kindness.capitalize# is built in layers, like #layeredthings#.",
+        "Sometimes I have to remember: #boundaries.capitalize#"
+    ],
+
+    "boundaries": [
+        "it is not my job to fix others.",
+        "it is okay if others get angry.",
+        "t is okay to say no.",
+        "it is not my job to take responsibility for others.",
+        "I don’t have to anticipate the needs of others.",
+        "it is my job to make me happy.",
+        "nobody has to agree with me.",
+        "I have a right to my own feelings.",
+        "I am enough."
+    ], 
+    "toughlove":[
+        "You've been #complaining# about this, #what are you going to#",
+        "I feel like I've been supportive of you on this topic but I wonder if you need more of a push: #what are you going to do",
+        "Maybe you need to set boundaries. Say it with me: #boundaries#",
+        "Do you want to keep #complaining# or start doing?"
+    ],
+
+    "complaining": [
+        "complaining",
+        "whining",
+        "going on",
+        "talking",
+        "spiraling",
+        "thinking"
+    ],
+    "what are you going to do":[
+        "what are you going to do to fix it?",
+        "what can I do to help you get on with fixing it?",
+        "what steps do you need to take to get to better place?",
+        "what are your next steps and... #Anything I can do#?",
+        "what do you think you'll do about it?",
+        "what do you want to do next?",
+        "do something to fix it."
+
     ],
     "layeredthings": [
         "croissants",
