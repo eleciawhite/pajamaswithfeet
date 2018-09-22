@@ -5,7 +5,8 @@
         "#distractions#\n#gesture#",
         "#compliments# #emoji#",
         "Reminder: #reminders#",
-        "#toughlove#"
+        "#toughlove#",
+        "#misc# #emoji#"
         
     ],
     "compliments response" : [
@@ -21,7 +22,10 @@
         "Please hang in there, you are #good##punctuation#",
         "I #like# that #you are here and##punctuation##emoji#" ,
         "I #am happy# that #you are here and##punctuation##emoji#" ,
-        "You are still you and I #like# you#punctuation#"
+        "You are still you and I #like# you#punctuation#",
+        "I love you#punctuation#",
+        "Somebody loves you#punctuation#",
+        "Somebody thinks you are #good# and they are not wrong#punctuation#"
     ],
     "you are here and":[
         "#you are here#",
@@ -265,9 +269,21 @@
         "That sounds like it feels #awful#. #I'm sorry# #I heard you# #Anything I can do#",
         "#I'm sorry# #I heard you# #Anything I can do#",
         "#I heard you# #Anything I can do#",
-        "#sympathy# #sympathy#",
-        "#Hi# #sympathy#"
+        "#boundaries.capitalize#"
     ],
+    "misc":[
+        "Would it help if I told you everyone feels this way sometimes?",
+        "Anger is a way of saying something here is not right.",
+        "Everything ok with you?",
+        "Everything else ok with you?",
+        "Depression lies. — Jenny Lawson (@theblogess)",
+        "Do you know about Spoon Theory? It may be useful to explain things: https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/",
+        "No, no, don’t apologize for being sad. Take the time you need. I’m happy you feel safe with me.",
+        "Take a deep breath. Repeat this to yourself: 'That’s just their way.'",
+        "#Let it go#",
+        "This sucks. But, you, you don’t."
+    ],
+
     "Hi": [
         "Hi, ",
         "Hey, ",
@@ -319,8 +335,14 @@
     ],
     "Let it go":[
         "Let it go.",
+        "Let it g#ooo#.",
         "Let it go. #you are here.capitalize#",
         "Breathe in and breathe out; let the #negative_emotion# #fly# away."
+    ],
+    "ooo":[
+        "ooo",
+        "oooo",
+        "#ooo##ooo#"
     ],
     "fly": [
         "flow", "fly", "drift"
@@ -341,6 +363,8 @@
     ],
     "activities": [
         "watch a movie",
+        "get a pedicure",
+        "make a robot",
         "sit quietly together",
         "do absolutely nothing",
         "read our books side by side",
@@ -357,7 +381,15 @@
         "giggle at #twitter_handle# together",
         "get a snack: #emoji_snacks#",
         "talk about something else entirely",
-        "listen to music, you choose"
+        "listen to music, you choose",
+        "pet a #animal#",
+        "go to the #place#"
+    ],
+    "animal": [
+        "dog", "pig", "cat", "puppy", "kitten", "bunny", "pangolin", "penguin", "goat"
+    ],
+    "place":[
+        "museum", "aquarium", "mall", "beach", "bookstore", "yarn store", "farm wherre the goats live"
     ],
     "time": [
         "next week",
@@ -370,6 +402,7 @@
     "distractions": [
         "#gesture#",
         "#Let it go#",
+        "Take a deep  breath.",
         "I like #likes#, is there anything you like?",
         "Would talking about it help? I can listen#punctuation#",
         "You know, we don't have to talk, would you like to #activities#?",
@@ -397,8 +430,7 @@
         "#Looking for# #Looking for#"
     ],
     "likes": [
-        "puppies",
-        "kittens",
+        "#animal.s#",
         "cute animal videos",
         "strange sea creatures",
         "the color purple",
@@ -431,7 +463,6 @@
         "Understanding comes later; for now, listen.",
         "Give confidence. And smile occasionally.",
         "It doesn't require an expert to make someone happy.",
-        "It is ok to set boundaries.",
         "Do what you are good at, help in your own way.",
         "Put your own oxygen mask on first.",
         "Yes, sending an email is sufficient.",
@@ -446,7 +477,10 @@
         "Thank you to Kelsey Crowe and Emily McDowell. Their book _There Is No Good Card For This_ is a great resource on how to be a good friend.",
         "Captain Awkward (https://captainawkward.com/) is an amazing resource for what to say and how to say it.",
         "#kindness.capitalize# is built in layers, like #layeredthings#.",
-        "Sometimes I have to remember: #boundaries.capitalize#"
+        "Sometimes I have to remember: #boundaries.capitalize#",
+        "Do you know about the Ring Theory of kvetching? It is useful: http://articles.latimes.com/2013/apr/07/opinion/la-oe-0407-silk-ring-theory-20130407",
+        "This is sad but a good reminder of what some people may be going through: https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/ #SpoonTheory",
+        "I need what I need – I’m not doing it to make you sad, but if you are a little sad, I can live with that. I’ll have to take care of myself."
     ],
 
     "boundaries": [
@@ -458,13 +492,17 @@
         "it is my job to make me happy.",
         "nobody has to agree with me.",
         "I have a right to my own feelings.",
-        "I am enough."
+        "I am enough.",
+        "it is ok not to be ok.",
+        "it is ok not to be normal."
     ], 
     "toughlove":[
         "You've been #complaining# about this, #what are you going to#",
         "I feel like I've been supportive of you on this topic but I wonder if you need more of a push: #what are you going to do",
         "Maybe you need to set boundaries. Say it with me: #boundaries#",
-        "Do you want to keep #complaining# or start doing?"
+        "Do you want to keep #complaining# or start doing?",
+        "A++ in denial and compartmentalization. But you know it is going to leak out into your life in sneaky ways, right?",
+        "I know this is a huge part of your life and I want to be there for you but I miss talking with you about other things."
     ],
 
     "complaining": [
@@ -501,4 +539,5 @@
         "@ZooBorns"
     ]
 }
+
 
