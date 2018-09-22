@@ -268,8 +268,7 @@
         "#Hi# that sounds #awful#. #I heard you#.",
         "That sounds like it feels #awful#. #I'm sorry# #I heard you# #Anything I can do#",
         "#I'm sorry# #I heard you# #Anything I can do#",
-        "#I heard you# #Anything I can do#",
-        "#boundaries.capitalize#"
+        "#I heard you# #Anything I can do#"
     ],
     "misc":[
         "Would it help if I told you everyone feels this way sometimes?",
@@ -335,13 +334,13 @@
     ],
     "Let it go":[
         "Let it go.",
-        "Let it g#ooo#.",
+        "Let it g#ooo#",
         "Let it go. #you are here.capitalize#",
         "Breathe in and breathe out; let the #negative_emotion# #fly# away."
     ],
     "ooo":[
-        "ooo",
         "oooo",
+        "ooooo",
         "#ooo##ooo#"
     ],
     "fly": [
@@ -497,12 +496,13 @@
         "it is ok not to be normal."
     ], 
     "toughlove":[
-        "You've been #complaining# about this, #what are you going to#",
+        "You've been #complaining# about this, #what are you going to do#",
         "I feel like I've been supportive of you on this topic but I wonder if you need more of a push: #what are you going to do",
         "Maybe you need to set boundaries. Say it with me: #boundaries#",
         "Do you want to keep #complaining# or start doing?",
         "A++ in denial and compartmentalization. But you know it is going to leak out into your life in sneaky ways, right?",
-        "I know this is a huge part of your life and I want to be there for you but I miss talking with you about other things."
+        "I know this is a huge part of your life and I want to be there for you but I miss talking with you about other things.",
+	 "#boundaries.capitalize#"
     ],
 
     "complaining": [
