@@ -1,18 +1,23 @@
 {
     "origin": [
-        "#sympathy#\n#gesture#",
         "#wishes#\n#gesture#",
         "#distractions#\n#gesture#",
-        "#compliments# #emoji#",
         "Reminder: #reminders#",
         "#toughlove#",
-        "#misc# #emoji#"
-        
+        "#misc# #emoji#",        
+        "#reassurance#"
+    ],
+    "temporarily unused":[
+
+        "#compliments# #emoji#",
+        "#sympathy#\n#gesture#"
     ],
     "compliments response" : [
         "#compliments#",
         "#compliments# #emoji#",
         "#compliments#\n#gesture#",
+        "I #like# #likes#, what do you like?",
+        "I #like# #likes#, what about you?",
 	    "#emoji#"
     ],
     "compliments": [
@@ -92,19 +97,44 @@
     ],
     "punctuation": [
         "!",
-        "!",
-        "!",
-        ".",
-        ".",
         ".",
         ".",
         "",
         ".#punctuation#",
         "!#punctuation#",
-        "#punctuation#!",
         " #emoji#",
         "\n#emoji#"
     ],
+    "reassurance":[
+        "It is #good# to #be_ok##punctuation#",
+        "It is #normal# to #be_ok##punctuation#",
+        "#be_ok.capitalize#! I will still #like# your #kindness##punctuation#",
+        "You do you#punctuation# #be_ok.capitalize# if you want to#punctuation#",
+        "You can do this. You are #good##punctuation#",
+        "You've got this. I am #like# you#punctuation#",
+        "You are strong enough. Don't let anyone tell you differently. "
+
+    ],
+    "be_ok":[
+        "cry",
+        "laugh",
+        "be sad",
+        "be happy",
+        "be angry",
+        "feel the way you do",
+        "forget about it for awhile",
+        "go on",
+        "live your life",
+        "ignore it all for now",
+        "be afraid",
+        "shout",
+        "get help",
+        "see a professional",
+        "be anxious",
+        "lean on other people",
+        "lean on me"
+    ],
+    
     "emoji_snacks":[
         "🍏", "🍎", "🍐", "🍊", "🍋", "🍌", "🍉", "🍍", "🍒", "🍈", "🍓", "🍇", "🥥", "🥝", 
         "🍅", "🥑", "🥨", "🥖", "🥐", "🍞", "🍯", "🥜", "🥞", "🧀", "🍝", "🍕", "🌭", "🍟", 
@@ -211,7 +241,8 @@
         "you are not alone#punctuation#",
         "it will get better#punctuation#",
         "you have this#punctuation#",
-        "you can get through this#punctuation#"
+        "you can get through this#punctuation#",
+        "#reassurance#"
     ],
     "negative_emotion": [
         "guilt",
@@ -280,7 +311,8 @@
         "No, no, don’t apologize for being sad. Take the time you need. I’m happy you feel safe with me.",
         "Take a deep breath. Repeat this to yourself: 'That’s just their way.'",
         "#Let it go#",
-        "This sucks. But, you, you don’t."
+        "This #sucks#. But, you don’t.",
+        "Well, that #sucks#. But it doesn't define you#punctuation#"
     ],
 
     "Hi": [
@@ -290,6 +322,16 @@
         "Hello, ",
         "Hi there, ",
         ""
+    ],
+    "sucks":[
+        "is #awful#",
+        "is #awful#",
+        "is #awful#",
+        "is #awful#",
+        "is #awful#",
+        "sucks",
+        "blows",
+        "blows chunks"
     ],
     "awful": [
         "awful",
@@ -344,10 +386,21 @@
         "#ooo##ooo#"
     ],
     "fly": [
-        "flow", "fly", "drift"
+        "flow", "fly", "drift", "float"
     ],
 
     "gesture": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
         "",
         "",
         "xxoo",
@@ -502,7 +555,9 @@
         "Do you want to keep #complaining# or start doing?",
         "A++ in denial and compartmentalization. But you know it is going to leak out into your life in sneaky ways, right?",
         "I know this is a huge part of your life and I want to be there for you but I miss talking with you about other things.",
-	 "#boundaries.capitalize#"
+        "#boundaries.capitalize#",
+        "Repeat after me: #boundaries.capitalize#",
+        "That sounds serious, maybe you should keep a diary or journal to track it?"
     ],
 
     "complaining": [
