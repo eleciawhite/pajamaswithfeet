@@ -1,14 +1,104 @@
 {
     "origin": [
+        "#gesture# #family# #gesture#",
+        "#gesture# #invitations# #gesture#",
+        "#gesture# #thoughts# #gesture#",
+        "#gesture# #holiday_advice# #gesture#",
+        "#normal_pj#"
+    ],
+    "family": [
+        "Of course your parents push your buttons! They installed them#punctuation#",
+        "Pretend you are an anthropologist and your family is part of a study you are conducting.",
+        "Yeah, I'm sensitve about it, why don't you back off?",
+        "Why are people so weird about the holidays? I don't know.",
+        "You don't have to agree but you do have to be civil. At least until the food starts flying. Then you just need good aim.",
+        "Remember, your mother-in-law may be difficult, but you also get those delicious cheese balls and even better, stuffed dates!",
+        "If I seem a little touchy about this stuff it’s because I am. I wish you well, but I cannot stress how much it’s really not my jam.",
+        "Family members may have feelings about something, and that’s understandable, but their feelings don’t automatically trump your own.",
+        "Nobody has a perfect holiday or perfect family.",
+        "Remember to be nice to the people who support you#punctuation# While they may understand your frustrations (and being the nearest target), they deserve your gratitude and courtesy#punctuation#",
+        "Everyone has expectations and fears around how the holidays should be. Cut them (and yourself) some slack#punctuation#"
+    ],
+    "holiday_advice": [
+        "Have you tried calmly explaining why the situation is not ok for you?",
+        "You never know what the person across the table is really going through.",
+        "Try not to put unreasonable pressure on yourself to be happy, to rejoice, or even to enjoy the holidays.",
+        "Try not to overanalyze your interactions with others.",
+        "For people that feed on drama, remove the part of the equation where you feed into it, and make it very boring when drama happens. This stuff only has the power to bother you if you buy into it.",
+        "Be realistic, and try not to expect the *ideal* holiday.",
+        "Listening is key.  But sometimes *not listening* is key.",
+        "Focus on today, not yesterday.",
+        "Don't abandon your healthy habits and self care, eat right, sleep extra, and breathe a lot.",
+        "You can't force yourself to be happy just because it's the holiday season.",
+        "Mayo clinic tips for coping with stress during the holidays: https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20047544"
+    ],
+
+    "invitations" : [
+        "It is an invitation, not a subpoena#punctuation#",
+        "'Thank you for thinking of me but I have other plans.' You don’t need to provide excuses. (And your other plans can be lying on the couch with a book or game.) #selfcare",
+        "It is #ok# to #say_no##punctuation#",
+        "You are *not* ruining their Christmas by refusing to participate, especially if partcipating means ruining your Dec 25.",
+        "You can spend holidays with whomever you like, including just yourself, if that’s how you want to roll.",
+        "We prefer a quiet holiday, thanks#punctuation#",
+        "Don't be alone, if you don't want to be.",
+        "If the old holiday traditions aren’t working, if they’re not making you happy and causing holiday stress, it’s time to do something different#punctuation#"
+
+    ],
+    "thoughts" : [
+        "#persistence.capitalize# is #important# in #situations# like these#punctuation#",
+        "You are doing a good job#punctuation#",
+        "Your looks do not define you#punctuation# #compliments#",
+        "Are you sure you want to spend your #energy# on that?",
+        "When you said X, I heard Y. Is that what you meant?",
+        "Pie is a perfectly #good# breakfast food. 🥧",
+        "Wow, is there a problem? You seem really upset that I celebrate different holidays from you."
+    ],
+    "say_no" : [
+        "say no",
+        "be busy",
+        "take a break from family time",
+        "take a break"
+    ],
+    "ok" : [
+        "ok",
+        "okay",
+        "#important"
+    ],
+    "persistence" : [
+        "persistence",
+        "laughter", 
+        "resilience",
+        "stubbornness"
+    ],
+    "important" : [
+        "important",
+        "useful",
+        "critical",
+        "#good#"
+    ],
+    "situations" : [
+        "situations",
+        "times", 
+        "weeks", 
+        "days", 
+        "moments"
+
+    ],
+    "energy" : [
+        "time",
+        "energy",
+        "emotions",
+        "money",
+        "effort"
+    ],
+
+    "normal_pj":[
         "#wishes#\n#gesture#",
         "#distractions#\n#gesture#",
         "Reminder: #reminders#",
         "#toughlove#",
         "#misc# #emoji#",        
-        "#reassurance#"
-    ],
-    "temporarily unused":[
-
+        "#reassurance#",
         "#compliments# #emoji#",
         "#sympathy#\n#gesture#"
     ],
@@ -90,10 +180,10 @@
     "good": [
         "amazing",
         "awesome",
-        "beautiful to me",
         "wonderful",
         "good",
-        "important"
+        "good",
+        "good"
     ],
     "punctuation": [
         "!",
@@ -102,8 +192,8 @@
         "",
         ".#punctuation#",
         "!#punctuation#",
-        " #emoji#",
-        "\n#emoji#"
+        " #gesture#",
+        "\n#gesture#"
     ],
     "reassurance":[
         "It is #good# to #be_ok##punctuation#",
@@ -135,6 +225,18 @@
         "lean on me"
     ],
     
+    "winter_emoji":[
+        "🌂","🧣","🧤","🧦","🐿","🌲",
+        "🍁","🍂","🎄","⭐️️","☃️","⛄️",
+        "🌬","☔️","☂️","⛸","🥌","🛷",
+        "🎿","⛷","🏂","🎊","🎉","🎁",
+        "💙","❄️","❄️","❄️","❄️","⛄️",
+        "⛄️","☃️","☃️","☃️","☃️","⛄️",
+        "⛸","🎁","🎁","☔️","🧤","🧣",
+        "🌲","🌲","🍁","🐿","🦔", "🐧",
+        "🐧","🐧","🐧","🐧","🥶","🥧",
+        "🥧","🥧","🥧"
+    ],
     "emoji_snacks":[
         "🍏", "🍎", "🍐", "🍊", "🍋", "🍌", "🍉", "🍍", "🍒", "🍈", "🍓", "🍇", "🥥", "🥝", 
         "🍅", "🥑", "🥨", "🥖", "🥐", "🍞", "🍯", "🥜", "🥞", "🧀", "🍝", "🍕", "🌭", "🍟", 
@@ -390,28 +492,16 @@
     ],
 
     "gesture": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "xxoo",
-        "Let me offer this shy but heartfelt pat on the back.",
-        "<hug>",
-        "((Hug))",
-        "<smile>",
-        "#emoji#",
-        "#emoji#",
-        "#emoji#",
-        "#emoji#"
+        "#winter_emoji#",
+        "#winter_emoji#",
+        "#winter_emoji#",
+        "#winter_emoji#",
+        "#winter_emoji#",
+        "#winter_emoji#",
+        "#winter_emoji#\n#gesture#",
+        "#gesture# #winter_emoji#",
+        "#winter_emoji# #emoji#",
+        "#winter_emoji#"
     ],
     "activities": [
         "watch a movie",
