@@ -1,15 +1,17 @@
 {
     "origin": [
-        "#wishes#\n#gesture#",
         "#distractions#\n#gesture#",
-        "Reminder: #reminders#",
-        "#toughlove#",
-        "#misc# #emoji#",        
-        "#reassurance#"
+        "#distractions#",
+        "#reassurance#",
+        "#reassurance# #gesture#",
+        "#reassurance# #emoji#  #emoji#",
+        "#wishes#\n#gesture#",
+        "#wishes# #gesture#"
     ],
     "temporarily unused":[
-
         "#compliments# #emoji#",
+        "Reminder: #reminders#",
+        "#toughlove#",
         "#sympathy#\n#gesture#"
     ],
     "compliments response" : [
@@ -43,7 +45,7 @@
         "you are who you are",
         "I get to know you",
         "you have survived so much",
-        "you can show you #kindness# in #good# ways",
+        "you can show your #kindness# in #good# ways",
         "you are #good#",
         "you are still showing us how #good# you are"
     ],
@@ -85,13 +87,20 @@
         "laughter",
         "humor",
         "sense of humor",
+        "you-ness",
+        "stories",
         "ability to keep going"
     ],
     "good": [
         "amazing",
         "awesome",
+        "great",
+        "kickass",
+
         "beautiful to me",
         "wonderful",
+        "good",
+        "good",
         "good",
         "important"
     ],
@@ -102,23 +111,92 @@
         "",
         ".#punctuation#",
         "!#punctuation#",
+        "#punctuation# #gesture#",
         " #emoji#",
         "\n#emoji#"
     ],
     "reassurance":[
-        "It is #good# to #be_ok##punctuation#",
-        "It is #normal# to #be_ok##punctuation#",
-        "#be_ok.capitalize#! I will still #like# your #kindness##punctuation#",
-        "You do you#punctuation# #be_ok.capitalize# if you want to#punctuation#",
-        "You can do this. You are #good##punctuation#",
-        "You've got this. I #like# you#punctuation#",
-        "You are strong enough. Don't let anyone tell you differently. "
+        "#you_can_do_it##punctuation# #like_you##punctuation#",
+        "#when.capitalize# you are #nervous#, #imagine_retriver##punctuation#"
+    ],
+    "when":[
+        "when",
+        "if"
+    ],
+
+    "you_can_do_it":[
+        "You can do this",
+        "You've got this",
+        "You #are_strong#",
+        "You do you",
+        "#be_ok.capitalize#",
+        "It is #good# to #be_ok#",
+        "It is #normal# to #be_ok#"
+    ],
+
+    "like_you":[
+        "I will still #like# your #kindness",
+        "#be_ok.capitalize# if you want",
+        "You are #good#",
+        "I #like# you",
+        "Don't let anyone tell you differently",
+        "",
+        "#distractions#",
+        "#punctuation#"
+    ],
+
+    "are_strong":[
+        "are strong",
+        "are strong enough",
+        "are #good#",
+        "will #be_ok#"
+    ],
+
+    "nervous":[
+        "nervous",
+        "anxious",
+        "overwhelmed",
+        "hurting",
+        "unhappy",
+        "in a black mood",
+        "unreasonably angry",
+        "worried about that interview",
+        "drowning in anxious thoughts",
+        "filled with self-loathing",
+        "feeling awful",
+        "thinking you'll never #be_ok#",
+        "fighting brain weasels"
+    ],
+
+    "imagine_retriver":[
+        "imagine you are sitting next to an invisible golden retriever",
+        "imagine me hugging you",
+        "remember this will make an excellent story one day",
+        "consider this will make a hilarious story one day",
+        "pretend you will #be_ok# for the for the next five minutes, then re-evaluate",
+        "remember there are many streaming kitten cams",
+        "use a coworker's computer to look up how to build a flamethrower",
+        "remember you #are_strong#",
+        "#breathe_deeply#",
+        "#activities#",
+        "take a momet to consider if you need to #activities#"
+    ],
+
+    "breathe_deeply":[
+        "breathe deeply",
+        "breathe deeply so you have enough oxygen in your brain to start shouting",
+        "take a breath and let it out",
+        "take a breath and let it out in a scream",
+        "take a deep breath",
+        "breathe in and breathe out; let the #negative_emotion# #fly# away"
 
     ],
+
     "be_ok":[
         "cry",
         "laugh",
         "be sad",
+        "feel #negative_emotion#",
         "be happy",
         "be angry",
         "feel the way you do",
@@ -206,9 +284,23 @@
     ],
     "wishes": [
         "#wishes_prefix# #wishes_post#",
+        "#wishes_prefix_or_standalone# #wishes_post.capitalize#",
+        "#wishes_prefix_or_standalone##punctuation#",
+        "#wishes_prefix# #wishes_post#",
         "#wishes_post.capitalize#"
     ],
+    "wishes_prefix_or_standalone":[
+        "#Hi#",
+        "Everything ok with you?",
+        "Would it help if I told you everyone feels this way sometimes?",
+        "#negative_emotion.capitalize# is a way of saying something here is not right.",
+        "No, no, don’t apologize for feeling #negative_emotion#",
+        "#Let it go#",
+        "Well, that #sucks#. But it doesn't define you#punctuation#"
+    ],
     "wishes_prefix": [
+        "#Let it go#, ",
+        "This #sucks#. ",
         "i know this is #awful# for you, ",
         "Good day and bad days, ",
         "I am sorry, ",
@@ -217,11 +309,13 @@
         "I can not imagine what you are going through, ",
         "This must be #awful#, ",
         "I know you've gotten through #awful# things before, ",
-        "#Hi#",
+        "#Hi#, ",
         "Wow, that can be #awful#, ",
         "I #like# #likes#, "
     ],
     "wishes_post": [
+        "#breathe_deeply#. Repeat this to yourself: 'That’s just their way.'",
+        "take the time you need.",
         "I hope it gets better#punctuation#",
         "I wish you the best#punctuation#",
         "I hope it gets easier for you",
@@ -242,7 +336,9 @@
         "it will get better#punctuation#",
         "you have this#punctuation#",
         "you can get through this#punctuation#",
-        "#reassurance#"
+        "#reassurance#",
+        "#breathe_deeply.capitalize#. Repeat this to yourself: 'That’s just their way.'",
+        "let's #activities#"
     ],
     "negative_emotion": [
         "guilt",
@@ -280,9 +376,9 @@
         ""
     ],
     "hug": [
+        "hug",
         "tea",
         "chocolate",
-        "hug",
         "smile",
         "joke",
         "#emoji_snacks#"
@@ -296,31 +392,17 @@
         "How are you feeling about what happened?",
         "You will feel better one day but for now... #Anything I can do#",
         "Of course I'm curious about what led to this... but I hope you are doing ok, that's the important part.",
-        "#Hi# that sounds #awful#. #I heard you#.",
+        "#Hi#, that sounds #awful#. #I heard you#.",
         "That sounds like it feels #awful#. #I'm sorry# #I heard you# #Anything I can do#",
         "#I'm sorry# #I heard you# #Anything I can do#",
         "#I heard you# #Anything I can do#"
     ],
-    "misc":[
-        "Would it help if I told you everyone feels this way sometimes?",
-        "Anger is a way of saying something here is not right.",
-        "Everything ok with you?",
-        "Everything else ok with you?",
-        "Depression lies. — Jenny Lawson (@theblogess)",
-        "Do you know about Spoon Theory? It may be useful to explain things: https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/",
-        "No, no, don’t apologize for being sad. Take the time you need. I’m happy you feel safe with me.",
-        "Take a deep breath. Repeat this to yourself: 'That’s just their way.'",
-        "#Let it go#",
-        "This #sucks#.",
-        "Well, that #sucks#. But it doesn't define you#punctuation#"
-    ],
-
     "Hi": [
-        "Hi, ",
-        "Hey, ",
-        "hello ",
-        "Hello, ",
-        "Hi there, ",
+        "Hi",
+        "Hey",
+        "hello",
+        "Hello",
+        "Hi there",
         ""
     ],
     "sucks":[
@@ -375,10 +457,10 @@
         ""
     ],
     "Let it go":[
-        "Let it go.",
+        "Let it go",
         "Let it g#ooo#",
         "Let it go. #you are here.capitalize#",
-        "Breathe in and breathe out; let the #negative_emotion# #fly# away."
+        "#breathe_deeply.capitalize#"
     ],
     "ooo":[
         "oooo",
@@ -395,19 +477,15 @@
         "",
         "",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
+        "#compliments#",
+        "#compliments# #gesture#",
+        "#compliments# #emoji#",
         "xxoo",
+        "I’m happy you feel safe with me.",
         "Let me offer this shy but heartfelt pat on the back.",
-        "<hug>",
-        "((Hug))",
-        "<smile>",
+        "Let's go #activities#!",
+        "<#hug#>",
+        "((#hug#))",
         "#emoji#",
         "#emoji#",
         "#emoji#",
@@ -435,7 +513,13 @@
         "talk about something else entirely",
         "listen to music, you choose",
         "pet a #animal#",
-        "go to the #place#"
+        "go to the #place#",
+        "get a snack",
+        "try to remember a happier time",
+        "find a streaming kitten cam",
+        "take a moment to consider if you need to #activities#",
+        "find a trusty attack badger",
+        "concentrate on what you *have* accomplished instead of focusing on #negative_emotion#"
     ],
     "animal": [
         "dog", "pig", "cat", "puppy", "kitten", "bunny", "pangolin", "penguin", "goat"
@@ -449,26 +533,39 @@
         "some time soon",
         "next month",
         "later",
-        "when you are ready"
+        "#when# you are ready"
     ],
     "distractions": [
-        "#gesture#",
-        "#Let it go#",
-        "Take a deep  breath.",
+        "#What are you worried about# #Anything I can do#",
+        "#What are you worried about# Do you want help? #Looking for#",
+        "#What are you worried about#",
+        "#other distractions#"
+    ],
+
+    "other distractions":[
+        "#gesture# #emoji#",
+        "Do you know about Spoon Theory? It may be useful to explain things: https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/",
+        "You know, we don't have to talk, would you like to #activities#?",
         "I like #likes#, is there anything you like?",
         "Would talking about it help? I can listen#punctuation#",
-        "You know, we don't have to talk, would you like to #activities#?",
+        "If you need space, that's fine with me. But #when# you are ready, please let me know if you'd like to do something. For examples, we could #activities#.",
+        "I totally understand wanting to be alone right now but if you decide a little company would be nice, maybe we can #activities# #time#.",
         "What were the #times_adjective# times like?",
         "Would anything make you smile? I have #likes# here I am happy to share.",
         "The laughter will will come back.",
-        "What are your next steps and... #Anything I can do#?",
-        "What are you biggest concerns right now? #Anything I can do#",
-        "What are you looking for right now? #Looking for# #Looking for#",
-        "What are you looking for right now? #Looking for# #Looking for# #Anything I can do#",
-        "If you need space, that's fine with me. But when you are ready, please let me know if you'd like to do something. For examples, we could #activities#.",
-        "I totally understand wanting to be alone right now but if you decide a little company would be nice, maybe we can #activities# #time#.",
         "You are being perfectly reasonable, of course, but... how about a snack before we continue the conversation? #emoji_snacks#"
+        
     ],
+    "What are you worried about":[
+        "What are you worried about most?",
+        "What are your next steps and... ",
+        "What are you biggest concerns right now?",
+        "What are you looking for right now?",
+        "Forget about what you think other people think you should do, what do you want?",
+        "Forget about *should*, what do you want?",
+        "What are you looking for right now? #Looking for#"
+    ],
+
     "Looking for":[
         "Advice?",
         "A place to vent?",
@@ -532,7 +629,7 @@
         "Sometimes I have to remember: #boundaries.capitalize#",
         "Do you know about the Ring Theory of kvetching? It is useful: http://articles.latimes.com/2013/apr/07/opinion/la-oe-0407-silk-ring-theory-20130407",
         "This is sad but a good reminder of what some people may be going through: https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/ #SpoonTheory",
-        "I need what I need – I’m not doing it to make you sad, but if you are a little sad, I can live with that. I’ll have to take care of myself."
+        "I need what I need – I’m not doing it to make you feel #awful#, but if you feel a little #negative_emotion#, I can live with that. I’ll have to take care of myself."
     ],
 
     "boundaries": [
