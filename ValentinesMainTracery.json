@@ -1,0 +1,845 @@
+{
+    "origin": [
+        "#poem#",
+        "#compliments# #emoji#",
+        "#valentines#",
+        "#valentines jokes#",
+        "#valentines jokes#",
+        "#valentines quotes#",
+        "#valentines snark#"
+
+    ],
+    "temporarily unused":[
+        "#compliments# #emoji#",
+        "Reminder: #reminders#",
+        "#toughlove#",
+        "#sympathy#\n#gesture#",
+        "#distractions#\n#gesture#",
+        "#distractions#",
+        "#reassurance#",
+        "#reassurance# #gesture#",
+        "#reassurance# #emoji#  #emoji#",
+        "#wishes#\n#emoji#",
+        "#wishes#"
+    ],
+    "poem":[
+        "Roses are red, Violets are purple, Sugar is sweet, And so is maple surple.",
+        "Roses are red, violets are blue, All my base are belong to you.",
+        "Roses are red, violets are blue, Your #animal_protector# will always love you",
+        "Roses are red, violets are blue, #RRR_1#, #RRR_2#\n#gesture#",
+        "Roses are red\nViolets are blue\n#RRR_1#\n#RRR_2#\n#emoji#",
+        "Roses are red #emoji# \nviolets are blue #emoji#\n #RRR_1##emoji#\n #RRR_2##punctuation# #emoji#",
+        "Roses are red, Violets are blue \n#RRR_1#, #RRR_2##punctuation# #emoji# #emoji#",
+        "Roses are red, violets are blue, #emoji#\n #RRR_1#, #RRR_2# #emoji# #emoji#",
+        "Roses are red #emoji# violets are blue #emoji# #RRR_1# #emoji# #RRR_2# #emoji#",
+        "Roses are red #emoji hearts# violets are blue #emoji hearts# #RRR_1# #emoji hearts# #RRR_2# #emoji hearts#",
+        "Roses are red #emoji hearts#\n violets are blue #emoji hearts#\n #RRR_1# #emoji hearts#\n #RRR_2##punctuation# #emoji hearts#",
+        "Roses are red\nViolets are blue\n#RRR_1#\n#RRR_2##punctuation# #emoji# #emoji#",
+        "Roses are red\nViolets are blue\n#RRR_1#\n#RRR_2#\n #emoji# #emoji#"
+        ],
+    "RRR_1" : [
+        "Sugar is sweet",
+        "Honey is sweet",
+        "I'm bored here",
+        "Something something",
+        "Your #kindness# is #good#",
+        "I #am happy#",
+        "Here's a #hug#"
+
+    ],
+    "RRR_2" : [
+        "And so are you.",
+        "But not as sweet as you.",
+        "let's go to the zoo.",
+        "I #like# you",
+        "I love you",
+        "Nothing is a #good# as you"
+    ],
+    
+    "valentines snark":[
+        "Honestly, Valentines Day is stupid.",
+        "I like you but can we not spend money celebrating a stupid day in the year? #heart_emoji#",
+        "I don't need expensive gifts or exciting out to dinners, let's cuddle on the couch.#heart_emoji#",
+        "Why is Valentines Day even a thing? (eye roll)",
+        "Look, it is just another day. Maybe I could #help_actions# to show my Valentine-y love for you?",
+        "I don't need a card or candy. I only need you to be my friend.",
+        "Here, I got you this #animal_protector#. You can thank me later.",
+        "Urk. I'll see you on the 15th. Until then, don't talk to strangers. And everyone is strange.",
+        "Honestly, Valentines Day is stupid. Any holiday with an indeterminate quote is."
+    ],
+
+    "valentines":[
+        "You are amazing just the way you are.",
+        "Will you be my valentine?",
+        "Thank you for being my amazing, sweet and kind Valentine.",
+        "Hope your day brings just what you want it to.",
+        "Thanks for being the loyal and caring friend you are. Love you!",
+        "Thanks for being the loyal and caring #animal_protector# you are. Love you!",
+        "Happy Valentine’s to one of my favorite people. Ever.",
+        "Valentine’s Day and every day, I’m grateful for you.",
+        "Wish we could be together swapping chocolates and laughing over candy hearts like we used to.",
+        "I hope you feel loved and appreciated on Valentine’s Day. Because you are.",
+        "Hope your day is filled with fun and your mouth is filled with chocolate!",
+        "Hope your day is just as awesome as you are!"
+    ],
+    "valentines jokes" : [
+        "What do you call the world's smallest Valentine’s Day card? \n A valen-teeny.",
+        "What did the stamp say to the envelope on Valentine’s Day? \n I’m stuck on you!",
+        "What did one volcano say to the other? \n I lava you!",
+        "What did the cucumber say to the pickle? \n You mean a great dill to me.",
+        "What did the one sheep say to the other? \n I love ewe!\n\n And how did the other sheep respond? \n You’re not so baaaaaa-d yourself!",
+        "What did the farmer give his wife for Valentine’s Day? \n Hogs and kisses.",
+        "What did one light bulb say to the other light bulb on Valentine’s Day? \n I wuv you watts and watts!",
+        "What do you say to an octopus on Valentine’s Day? \n I want to hold your hand, hand, hand, hand, hand, hand, hand, hand!",
+        "What do you write in a banana slug’s Valentine’s Day card? \n Be my Valen-slime!",
+        "What do owls say to declare their love? \n Owl be yours!",
+        "What did one bee say to the other?  \n I love bee-ing with you, honey!",
+        "Why do skunks love Valentine’s Day? \n They are very scent-imental creatures.",
+        "What do you call two birds in love? \n Tweethearts!",
+        "Q: What did one font say to the other on Valentine’s Day?\n A: You’re just my type.",
+        "Q: What did the drum say to the other drum on Valentine’s Day?\n A: My heart beats for you.",
+        "Q: What did the calculator say to the pencil on Valentine’s Day?\nA: You can always count on me.",
+        "Q: Why didn’t the skeleton want to send any Valentine’s Day cards? \n A: His heart wasn’t in it.",
+        "Q: What did the circle say to the triangle on Valentine’s Day?\nA: I think you’re acute.",
+        "Q: What did the bat say to his Valentine?\nA: You’re fun to hang around with."
+    ],
+    "valentines quotes" : [
+        "I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best. ― Marilyn Monroe",
+        "You know you're in love when you can't fall asleep because reality is finally better than your dreams. ― Dr. Seuss",
+        "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that. ― Martin Luther King Jr.",
+        "Have you ever been in love? Horrible isn't it? It makes you so vulnerable. It opens your chest and it opens up your heart and it means that someone can get inside you and mess you up. ― Neil Gaiman, The Kindly Ones",
+        "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. ― Lao Tzu",
+        "Love is that condition in which the happiness of another person is essential to your own. ― Robert A. Heinlein, Stranger in a Strange Land",
+        "There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature. ― Jane Austen, Northanger Abbey"
+    ],
+
+    "compliments response" : [
+        "#compliments#",
+        "#compliments# #emoji#",
+        "#compliments#\n#gesture#",
+        "I #like# #likes#, what do you like?",
+        "I #like# #likes#, what about you?",
+        "And a magnificent #animal_protector# to you!",
+	    "#emoji#"
+    ],
+    "compliments": [
+        "I #like# your #kindness##punctuation#",
+        "You are #good##punctuation#",
+        "Your #kindness# is #good##punctuation#",
+        "Please hang in there, you are #good##punctuation#",
+        "I #like# that #you are here and##punctuation##emoji#" ,
+        "I #am happy# that #you are here and##punctuation##emoji#" ,
+        "You are still you and I #like# you#punctuation#",
+        "I love you#punctuation#",
+        "Somebody loves you#punctuation#",
+        "Somebody thinks you are #good# and they are not wrong#punctuation#",
+        "Your life makes a difference.",
+        "You are my favorite #animal_protector#"
+    ],
+    "you are here and":[
+        "#you are here#",
+        "#you are here# and #you are here#",
+        "#you are here# and #you are here and#"
+    ],
+    "you are here":[
+        "you are here",
+        "you are alive",
+        "you are who you are",
+        "I get to know you",
+        "you have survived so much",
+        "you can show your #kindness# in #good# ways",
+        "you are #good#",
+        "you are still showing us how #good# you are"
+    ],
+    "am happy":[
+        "am happy",
+        "am so happy",
+        "am overjoyed",
+        "am immensely pleased",
+        "am pleased",
+        "am tickled",
+        "am overjoyed",
+        "am thrilled"
+    ],
+    "like": [
+        "like",
+        "love",
+        "appreciate",
+        "admire",
+        "am inspired by",
+        "respect",
+        "trust",
+        "believe in",
+        "am glad of",
+        "#am happy# with",
+        "#am happy# with"
+    ],
+    "kindness": [
+        "patience",
+        "strength",
+        "resilience",
+        "kindness",
+        "capacity to love",
+        "competence",
+        "toughness",
+        "compassion",
+        "empathy",
+        "bravery",
+        "helpfulness",
+        "laughter",
+        "humor",
+        "sense of humor",
+        "you-ness",
+        "stories",
+        "ability to keep going"
+    ],
+    "good": [
+        "amazing",
+        "awesome",
+        "great",
+        "kickass",
+
+        "beautiful to me",
+        "wonderful",
+        "good",
+        "good",
+        "good",
+        "important"
+    ],
+    "punctuation": [
+        "!",
+        ".",
+        ".",
+        "",
+        ".#punctuation#",
+        "!#punctuation#",
+        "#punctuation# #gesture#",
+        " #emoji#",
+        "\n#emoji#"
+    ],
+    "reassurance":[
+        "#you_can_do_it##punctuation# #like_you##punctuation#",
+        "#when.capitalize# you are #nervous#, #calming_thoughts##punctuation#"
+    ],
+    "when":[
+        "when",
+        "if"
+    ],
+
+    "you_can_do_it":[
+        "You can do this",
+        "You've got this",
+        "You #are_strong#",
+        "You do you",
+        "#be_ok.capitalize#",
+        "It is #good# to #be_ok#",
+        "It is #normal# to #be_ok#"
+    ],
+
+    "like_you":[
+        "I will still #like# your #kindness",
+        "#be_ok.capitalize# if you want",
+        "You are #good#",
+        "I #like# you",
+        "Don't let anyone tell you differently",
+        "",
+        "#distractions#",
+        "#punctuation#"
+    ],
+
+    "are_strong":[
+        "are strong",
+        "are strong enough",
+        "are #good#",
+        "will #be_ok#",
+        "are not #weak#"
+    ],
+
+    "weak": [
+        "weak", 
+        "defective",
+        "lazy",
+        "crazy"  
+    ],
+    "nervous":[
+        "nervous",
+        "anxious",
+        "overwhelmed",
+        "hurting",
+        "unhappy",
+        "in a black mood",
+        "unreasonably angry",
+        "worried about that interview",
+        "drowning in anxious thoughts",
+        "filled with self-loathing",
+        "feeling awful",
+        "thinking you'll never #be_ok#",
+        "fighting brain weasels"
+    ],
+
+    "calming_thoughts":[
+        "imagine you are sitting next to #animal_protector.a#",
+        "imagine me hugging you",
+        "remember this will make an excellent story one day",
+        "consider this will make a hilarious story one day",
+        "pretend you will #be_ok# for the for the next five minutes, then re-evaluate",
+        "remember there are many streaming kitten cams",
+        "use a coworker's computer to look up how to build a flamethrower",
+        "remember you #are_strong#",
+        "#breathe_deeply#",
+        "#activities#",
+        "visualize your #animal_protector#",
+        "do not let these #awful# thought win.",
+        "take a momet to consider if you need to #activities#"
+    ],
+
+    "animal_protector" : [
+        "#attack# #badger#"
+    ],
+    "attack" : [
+        "attack", "guard", "helper", "rescue", "handy", "friendly", "ferocious", "emotional-support", "supportive", "invisible"
+        ],
+    "badger":[
+        "badger", "porcupine", "hedgehog", "dolphin", "octopus", "fish", "platypus", "dinosaur", "skunk", "golden retriever"
+    ],
+
+    "breathe_deeply":[
+        "breathe deeply",
+        "breathe deeply so you have enough oxygen in your brain to start shouting",
+        "take a breath and let it out",
+        "take a breath and let it out in a scream",
+        "take a deep breath",
+        "breathe in and breathe out; let the #negative_emotion# #fly# away"
+
+    ],
+
+    "be_ok":[
+        "cry",
+        "laugh",
+        "be sad",
+        "feel #negative_emotion#",
+        "be happy",
+        "be angry",
+        "feel the way you do",
+        "forget about it for awhile",
+        "go on",
+        "live your life",
+        "ignore it all for now",
+        "be afraid",
+        "shout",
+        "get help",
+        "see a professional",
+        "be anxious",
+        "lean on other people",
+        "lean on me"
+    ],
+    "emoji hearts":[
+        "🌈",
+        "💙",
+        "💜",
+        "🧡",
+        "💛",
+        "💚",
+        "💙",
+        "💜",
+        "💖",
+        "💗",
+        "💓",
+        "💞",
+        "💕",
+        "💝",
+        "💟"
+],
+    "emoji_snacks":[
+        "🍏", "🍎", "🍐", "🍊", "🍋", "🍌", "🍉", "🍍", "🍒", "🍈", "🍓", "🍇", "🥥", "🥝", 
+        "🍅", "🥑", "🥨", "🥖", "🥐", "🍞", "🍯", "🥜", "🥞", "🧀", "🍝", "🍕", "🌭", "🍟", 
+        "🍔", "🍳", "🥪", "🥙", "🌮", "🌯", "🍜", "🍲", "🍣", "🍛", "🍢", "🍡", "🍧", "🍨", 
+        "🍭", "🍮", "🥧", "🎂", "🍰", "🍦", "🍬", "🍫", "🍿", "🍩", "🍪",  "️🍵", 
+	"🍦", "🍫", "☕️", "🍰", "🍧", "🍨", "🎂"
+    ],
+    "emoji": [
+        "❤️",
+        "🐙",
+        "😊",
+        "😄",
+        "🍦",
+        "🐋",
+        "️☂️",
+        "🐶",
+        "🐱",
+        "🐹",
+        "🐰",
+        "🐧",
+        "🦋",
+        "🐛",
+        "🦄",
+        "🐌",
+        "🦀",
+        "🐳",
+        "🌻",
+        "🌺",
+        "🌷",
+        "🌼",
+        "🌸",
+        "💐",
+        "⭐️",
+        "⭐️",
+        "⭐️",
+        "🍪",
+        "🍫",
+        "☕️",
+        "🌈",
+        "💙",
+        "💜",
+        "🧡",
+        "💛",
+        "💚",
+        "💙",
+        "💜",
+        "💖",
+        "💗",
+        "💓",
+        "💞",
+        "💕",
+        "💝",
+        "💟",
+        "🌲",
+        "🍰",
+        "🍦",
+        "🍧",
+        "🍨",
+        "🎂",
+        "#emoji##emoji#",
+        "#emoji##emoji_snacks#",
+        "#emoji##emoji#",
+        "#emoji##emoji##emoji_snacks#",
+        "#emoji##emoji##emoji#",
+        "#emoji##emoji##emoji#",
+        "#emoji##emoji##emoji##emoji_snacks#",
+        "#emoji##emoji##emoji##emoji#",
+        "#emoji##emoji##emoji##emoji_snacks#"
+    ],
+    "wishes": [
+        "#wishes_prefix# #wishes_post#",
+        "#wishes_prefix_or_standalone# #wishes_post.capitalize#",
+        "#wishes_prefix_or_standalone##punctuation#",
+        "#wishes_prefix# #wishes_post#",
+        "#wishes_post.capitalize#"
+    ],
+    "wishes_prefix_or_standalone":[
+        "#Hi#",
+        "Everything ok with you?",
+        "Would it help if I told you everyone feels this way sometimes?",
+        "#negative_emotion.capitalize# is a way of saying something here is not right.",
+        "No, no, don’t apologize for feeling #negative_emotion#",
+        "#Let it go#",
+        "Well, that #sucks#. But it doesn't define you#punctuation#"
+    ],
+    "wishes_prefix": [
+        "#Let it go#, ",
+        "This #sucks#. ",
+        "i know this is #awful# for you, ",
+        "Good day and bad days, ",
+        "I am sorry, ",
+        "Oh, sweetie! I'm sorry, ",
+        "I hope you don't mind, I just heard, and ",
+        "I can not imagine what you are going through, ",
+        "This must be #awful#, ",
+        "I know you've gotten through #awful# things before, ",
+        "#Hi#, ",
+        "Wow, that can be #awful#, ",
+        "I #like# #likes#, "
+    ],
+    "wishes_post": [
+        "take the time you need.",
+        "I hope it gets better#punctuation#",
+        "I wish #good# things for you#punctuation#",
+        "would a #hug# or #hug# help?",
+        "how about some #hug.s#?",
+        "would a #little# #hug# help? I would be happy to give you as many as you’d take#punctuation#",
+        "I wish I could make you feel better. #distractions#",
+        "how are you#howareyoumodifier#?",
+        "what's it like for you?",
+        "how is it going for you?",
+        "I have faith in you#punctuation#",
+        "difficult as this feels, I know you can get through it#punctuation#",
+        "#negative_emotion# is #normal##punctuation#",
+        "#negative_emotion# is #normal##punctuation# #wishes_post.capitalize#",
+        "#negative_emotion# is #normal##punctuation#\n#wishes_post.capitalize#",
+        "you are not alone#punctuation#",
+        "it will get better#punctuation#",
+        "you have this#punctuation#",
+        "you can get through this#punctuation#",
+        "#reassurance#",
+        "asking for help is a sign of strength.",
+        "may the strength of the past reflect in your future.",
+        "#breathe_deeply.capitalize#. Repeat this to yourself: 'That’s just their way.'",
+        "let's #activities#"
+    ],
+    "negative_emotion": [
+        "guilt",
+        "anger",
+        "whatever you are feeling",
+        "frustration",
+        "sad",
+        "being annoyed",
+        "feeling irritated by everything",
+        "feeling guilty"
+    ],
+    "normal": [
+        "normal",
+        "ok",
+        "reasonable",
+        "perfectly normal",
+        "frustrating but normal",
+        "fine"
+    ],
+    "howareyoumodifier": [
+        "",
+        "",
+        "",
+        " feeling",
+        " *today*",
+        " feeling about it",
+        " doing"
+    ],
+    "little": [
+        "little",
+        "small",
+        "friendly",
+        "",
+        "",
+        ""
+    ],
+    "hug": [
+        "hug",
+        "tea",
+        "chocolate",
+        "smile",
+        "joke",
+        "hand to hold",
+        "#emoji_snacks#"
+    ],
+    "sympathy": [
+        "#I'm sorry# #emoji#",
+        "#I heard you# #emoji#",
+        "You've done the best you could with the tools you had. It is ok.",
+        "I'm thinking about you#punctuation#",
+        "That is #awful#.",
+        "How are you feeling about what happened?",
+        "You will feel better one day but for now... #Anything I can do#",
+        "Of course I'm curious about what led to this... but I hope you are doing ok, that's the important part.",
+        "#Hi#, that sounds #awful#. #I heard you#.",
+        "That sounds like it feels #awful#. #I'm sorry# #I heard you# #Anything I can do#",
+        "#I'm sorry# #I heard you# #Anything I can do#",
+        "#I heard you# #Anything I can do#"
+    ],
+    "Hi": [
+        "Hi",
+        "Hey",
+        "hello",
+        "Hello",
+        "Hi there",
+        ""
+    ],
+    "sucks":[
+        "is #awful#",
+        "is #awful#",
+        "is #awful#",
+        "is #awful#",
+        "is #awful#",
+        "sucks",
+        "blows",
+        "blows chunks"
+    ],
+    "awful": [
+        "awful",
+        "terrible",
+        "sucky",
+        "sad",
+        "bad",
+        "hard",
+        "tough",
+        "mean",
+        "shitty"
+    ],
+    "I'm sorry": [
+        "I'm sorry.",
+        "I'm sorry you are going through this.",
+        "I'm so sorry.",
+        "#emoji#",
+        "",
+        ""
+    ],
+    "I heard you":[
+        "I don't know what to say but I heard you.",
+        "Sometimes I don’t say anything because I have no idea what to say and I’m afraid of saying something that will make it worse.",
+        "I don’t have the focus or energy to be the listening/comforting friend today, but I didn’t want you to think nobody was listening.",
+        "I'm sorry but right now I can't talk, could you look at #twitter_handle# for a bit until I'm free?",
+        "I see you#punctuation#",
+        "#emoji#",
+        "",
+        ""
+    ],
+    "Anything I can do":[
+        "Tell me about it?",
+        "It's not boring, I want to hear.",
+        "What do you think you'll do about it?",
+        "What do you want to do next?",
+        "I want you to know I'm here for you.",
+        "Is there anything I could say right now that would help you feel better?",
+        "As your friend I don’t always know how to help but I don’t want to leave you hanging.",
+        "I don't know if I can help but asking doesn't make you a burden. I just don't know what to offer. Please ask.",
+        "What can I do to help?",
+        "Maybe I could #help_actions#?",
+        "#emoji#",
+        "#Anything I can do#",
+        ""
+    ],
+    "help_actions": [
+        "help with the housework",
+        "do some grocery shopping",
+        "drive you to an appointment",
+        "do some yard work",
+        "read to you"
+    ],
+
+    "Let it go":[
+        "Let it go",
+        "Let it g#ooo#",
+        "Let it go. #you are here.capitalize#",
+        "#breathe_deeply.capitalize#"
+    ],
+    "ooo":[
+        "oooo",
+        "ooooo",
+        "#ooo##ooo#"
+    ],
+    "fly": [
+        "flow", "fly", "drift", "float"
+    ],
+
+    "gesture": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "#compliments#",
+        "#compliments# #gesture#",
+        "#compliments# #emoji#",
+        "xxoo",
+        "I’m happy you feel safe with me.",
+        "Let's go #activities#!",
+        "<#hug#>",
+        "((#hug#))",
+        "#emoji#",
+        "#emoji#",
+        "#emoji#",
+        "#emoji#"
+    ],
+    "activities": [
+        "watch a movie",
+        "get a pedicure",
+        "make a robot",
+        "sit quietly together",
+        "do absolutely nothing",
+        "read our books side by side",
+        "go for a walk",
+        "bake cookies",
+        "doodle a picture or two",
+        "get some pie",
+        "watch trashy tv",
+        "go to the beach and watch the waves",
+        "throw things at other things",
+        "talk about whatever you want",
+    	"chat about #likes#",
+        "play a game",
+        "giggle at #twitter_handle# together",
+        "get a snack: #emoji_snacks#",
+        "talk about something else entirely",
+        "listen to music, you choose",
+        "pet a #animal#",
+        "go to the #place#",
+        "get a snack",
+        "try to remember a happier time",
+        "find a streaming kitten cam",
+        "take a moment to consider if you need to #activities#",
+        "find a trusty attack badger",
+        "concentrate on what you *have* accomplished instead of focusing on #negative_emotion#"
+    ],
+    "animal": [
+        "dog", "pig", "cat", "puppy", "kitten", "bunny", "pangolin", "penguin", "goat"
+    ],
+    "place":[
+        "museum", "aquarium", "mall", "beach", "bookstore", "yarn store", "farm wherre the goats live"
+    ],
+    "time": [
+        "next week",
+        "tomorrow",
+        "some time soon",
+        "next month",
+        "later",
+        "#when# you are ready"
+    ],
+    "distractions": [
+        "#What are you worried about# #Anything I can do#",
+        "#What are you worried about# Do you want help? #Looking for#",
+        "#What are you worried about#",
+        "#What are you worried about# #animal_protector.capitalize#?",        
+        "#other distractions#"
+    ],
+
+    "other distractions":[
+        "You are my friend. And you are saying #awful# things about yourself. Please stop saying #awful# things about my friend.",
+        "I heard there are going to be bodies. Let me know if you need help with the disposal. /#WeAreGoodFriends",
+        "#gesture# #emoji#",
+        "Do you know about Spoon Theory? It may be useful to explain things: https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/",
+        "I am sure you are righteous in your anger but have you ever heard the story of the ragesaurus? https://captainawkward.com/2012/11/07/391-how-to-train-your-rageasaurus/ ",
+        "You know, we don't have to talk, would you like to #activities#?",
+        "I like #likes#, is there anything you like?",
+        "Would talking about it help? I can listen#punctuation#",
+        "If you need space, that's fine with me. But #when# you are ready, please let me know if you'd like to do something. For examples, we could #activities#.",
+        "I totally understand wanting to be alone right now but if you decide a little company would be nice, maybe we can #activities# #time#.",
+        "What were the #times_adjective# times like?",
+        "Would anything make you smile? I have #likes# here I am happy to share.",
+        "The laughter will will come back.",
+        "You are being perfectly reasonable, of course, but... how about a snack before we continue the conversation? #emoji_snacks#"
+    ],
+    "What are you worried about":[
+        "What are you worried about most?",
+        "What are your next steps and... ",
+        "What are you biggest concerns right now?",
+        "What are you looking for right now?",
+        "Forget about what you think other people think you should do, what do you want?",
+        "Forget about *should*, what do you want?",
+        "What are you looking for right now? #Looking for#"
+    ],
+
+    "Looking for":[
+        "Advice?",
+        "A place to vent?",
+        "Snarky comebacks?",
+        "Anger on your behalf?",
+        "Help with plans?",
+        "Acknowledgement that everything is #awful#?",
+        "Someone to see that #you are here#? (I do.)",
+        "#likes.capitalize#?",
+        "#likes.capitalize#?",
+        "#Looking for# #Looking for#"
+    ],
+    "likes": [
+        "#animal.s#",
+        "cute animal videos",
+        "strange sea creatures",
+        "the color purple",
+        "the way the sky looks after it rains",
+        "ocean waves",
+        "the smell of lemons",
+        "cat purrs",
+        "dark chocolate",
+        "fuzzy blankets",
+        "snoring dogs",
+        "#layeredthings#",
+        "#hug.s#",
+        "eating #emoji_snacks#s", 
+        "reading #twitter_handle#"
+    ],
+    "times_adjective": [
+        "happiest",
+        "hardest",
+        "best",
+        "worst",
+        "loneliest"
+    ],
+    "reminders": [
+        "One #little# action is worth a thousand nice thoughts.",
+        "Many small acts of kindness is usually more helpful than one grand gesture.",
+        "You are allowed to be nice and then wander off, it isn't a life sentence.",
+        "Listening is key.",
+        "You don't have to fix it.",
+        "Their situation is different from what you know, be patient and kind.",
+        "Understanding comes later; for now, listen.",
+        "Give confidence. And smile occasionally.",
+        "It doesn't require an expert to make someone happy.",
+        "Do what you are good at, help in your own way.",
+        "Put your own oxygen mask on first.",
+        "Yes, sending an email is sufficient.",
+        "Yes, sending a card would be lovely. And enough.",
+        "It is ok to set limits.",
+        "Sometimes it is their whole life but they may still want to talk to someone about anything else. Distractions are good.",
+        "\nYou mustn’t feel guilty that you didn’t know\n especialy if you weren’t told.\nSometimes people aren’t ready to share their burdens.\nThat can be a good decision for them. \nAnd it isn't about you.",
+        "It is ok to set boundaries.",
+        "Don’t pressure the person to come up with or have answers to plan-making questions, especially immediate answers, just change the habit from eternal doom to eternal doom + maybe naming one tiny action.",
+        "Sometimes don’t give advice. Don’t offer solutions. Don’t feed the spiral. Just sit there with the person for a second and say *I see you.*",
+        "It is ok to say something like \n *I’m so sorry, that must feel #awful#. I really think it’s time to call in the cavalry and get some professional help.*",
+        "Thank you to Kelsey Crowe and Emily McDowell. Their book _There Is No Good Card For This_ is a great resource on how to be a good friend.",
+        "Captain Awkward (https://captainawkward.com/) is an amazing resource for what to say and how to say it.",
+        "#kindness.capitalize# is built in layers, like #layeredthings#.",
+        "Sometimes I have to remember: #boundaries.capitalize#",
+        "Do you know about the Ring Theory of kvetching? It is useful: http://articles.latimes.com/2013/apr/07/opinion/la-oe-0407-silk-ring-theory-20130407",
+        "This is sad but a good reminder of what some people may be going through: https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/ #SpoonTheory",
+        "I need what I need – I’m not doing it to make you feel #awful#, but if you feel a little #negative_emotion#, I can live with that. I’ll have to take care of myself."
+    ],
+
+    "boundaries": [
+        "it is not my job to fix others.",
+        "it is okay if others get angry.",
+        "it is okay to say no.",
+        "it is not my job to take responsibility for others.",
+        "I don’t have to anticipate the needs of others.",
+        "it is my job to make me happy.",
+        "nobody has to agree with me.",
+        "I have a right to my own feelings.",
+        "I am enough.",
+        "it is ok not to be ok.",
+        "it is ok not to be normal."
+    ], 
+    "toughlove":[
+        "You've been #complaining# about this, #what are you going to do#",
+        "I feel like I've been supportive of you on this topic but I wonder if you need more of a push: #what are you going to do",
+        "Maybe you need to set boundaries. Say it with me: #boundaries#",
+        "Do you want to keep #complaining# or start doing?",
+        "A++ in denial and compartmentalization. But you know it is going to leak out into your life in sneaky ways, right?",
+        "I know this is a huge part of your life and I want to be there for you but I miss talking with you about other things.",
+        "#boundaries.capitalize#",
+        "Repeat after me: #boundaries.capitalize#",
+        "That sounds serious, maybe you should keep a diary or journal to track it?"
+    ],
+
+    "complaining": [
+        "complaining",
+        "whining",
+        "going on",
+        "talking",
+        "spiraling",
+        "thinking"
+    ],
+    "what are you going to do":[
+        "what are you going to do to fix it?",
+        "what can I do to help you get on with fixing it?",
+        "what steps do you need to take to get to better place?",
+        "what are your next steps and... #Anything I can do#?",
+        "what do you think you'll do about it?",
+        "what do you want to do next?",
+        "do something to fix it."
+
+    ],
+    "layeredthings": [
+        "croissants",
+        "parfaits",
+        "sedimentary rock",
+    	"rainbows",
+        "clouds in the sky"
+    ],
+    "twitter_handle":[
+        "@EmrgencyKittens",
+        "@dog_rates",
+        "@CuteEmergency",
+        "@A_single_bear",
+        "@NaturelsWeird",
+        "@ZooBorns"
+    ]
+}
+
+
