@@ -5,8 +5,8 @@
         "#reassurance#",
         "#reassurance# #gesture#",
         "#reassurance# #emoji#  #emoji#",
-        "#wishes#\n#gesture#",
-        "#wishes# #gesture#"
+        "#wishes#\n#emoji#",
+        "#wishes#"
     ],
     "temporarily unused":[
         "#compliments# #emoji#",
@@ -20,6 +20,7 @@
         "#compliments#\n#gesture#",
         "I #like# #likes#, what do you like?",
         "I #like# #likes#, what about you?",
+        "And a magnificent #animal_protector# to you!",
 	    "#emoji#"
     ],
     "compliments": [
@@ -32,7 +33,9 @@
         "You are still you and I #like# you#punctuation#",
         "I love you#punctuation#",
         "Somebody loves you#punctuation#",
-        "Somebody thinks you are #good# and they are not wrong#punctuation#"
+        "Somebody thinks you are #good# and they are not wrong#punctuation#",
+        "Your life makes a difference.",
+        "You are my favorite #animal_protector#"
     ],
     "you are here and":[
         "#you are here#",
@@ -117,7 +120,7 @@
     ],
     "reassurance":[
         "#you_can_do_it##punctuation# #like_you##punctuation#",
-        "#when.capitalize# you are #nervous#, #imagine_retriver##punctuation#"
+        "#when.capitalize# you are #nervous#, #calming_thoughts##punctuation#"
     ],
     "when":[
         "when",
@@ -149,9 +152,16 @@
         "are strong",
         "are strong enough",
         "are #good#",
-        "will #be_ok#"
+        "will #be_ok#",
+        "are not #weak#"
     ],
 
+    "weak": [
+        "weak", 
+        "defective",
+        "lazy",
+        "crazy"  
+    ],
     "nervous":[
         "nervous",
         "anxious",
@@ -168,8 +178,8 @@
         "fighting brain weasels"
     ],
 
-    "imagine_retriver":[
-        "imagine you are sitting next to an invisible golden retriever",
+    "calming_thoughts":[
+        "imagine you are sitting next to #animal_protector.a#",
         "imagine me hugging you",
         "remember this will make an excellent story one day",
         "consider this will make a hilarious story one day",
@@ -179,7 +189,19 @@
         "remember you #are_strong#",
         "#breathe_deeply#",
         "#activities#",
+        "visualize your #animal_protector#",
+        "do not let these #awful# thought win.",
         "take a momet to consider if you need to #activities#"
+    ],
+
+    "animal_protector" : [
+        "#attack# #badger#"
+    ],
+    "attack" : [
+        "attack", "guard", "helper", "rescue", "handy", "friendly", "ferocious", "emotional-support", "supportive", "invisible"
+        ],
+    "badger":[
+        "badger", "porcupine", "hedgehog", "dolphin", "octopus", "fish", "platypus", "dinosaur", "skunk", "golden retriever"
     ],
 
     "breathe_deeply":[
@@ -314,11 +336,8 @@
         "I #like# #likes#, "
     ],
     "wishes_post": [
-        "#breathe_deeply#. Repeat this to yourself: 'That’s just their way.'",
         "take the time you need.",
         "I hope it gets better#punctuation#",
-        "I wish you the best#punctuation#",
-        "I hope it gets easier for you",
         "I wish #good# things for you#punctuation#",
         "would a #hug# or #hug# help?",
         "how about some #hug.s#?",
@@ -337,6 +356,8 @@
         "you have this#punctuation#",
         "you can get through this#punctuation#",
         "#reassurance#",
+        "asking for help is a sign of strength.",
+        "may the strength of the past reflect in your future.",
         "#breathe_deeply.capitalize#. Repeat this to yourself: 'That’s just their way.'",
         "let's #activities#"
     ],
@@ -381,6 +402,7 @@
         "chocolate",
         "smile",
         "joke",
+        "hand to hold",
         "#emoji_snacks#"
     ],
     "sympathy": [
@@ -420,8 +442,10 @@
         "terrible",
         "sucky",
         "sad",
+        "bad",
         "hard",
         "tough",
+        "mean",
         "shitty"
     ],
     "I'm sorry": [
@@ -452,10 +476,19 @@
         "As your friend I don’t always know how to help but I don’t want to leave you hanging.",
         "I don't know if I can help but asking doesn't make you a burden. I just don't know what to offer. Please ask.",
         "What can I do to help?",
+        "Maybe I could #help_actions#?",
         "#emoji#",
-        "",
+        "#Anything I can do#",
         ""
     ],
+    "help_actions": [
+        "help with the housework",
+        "do some grocery shopping",
+        "drive you to an appointment",
+        "do some yard work",
+        "read to you"
+    ],
+
     "Let it go":[
         "Let it go",
         "Let it g#ooo#",
@@ -482,7 +515,6 @@
         "#compliments# #emoji#",
         "xxoo",
         "I’m happy you feel safe with me.",
-        "Let me offer this shy but heartfelt pat on the back.",
         "Let's go #activities#!",
         "<#hug#>",
         "((#hug#))",
@@ -539,12 +571,16 @@
         "#What are you worried about# #Anything I can do#",
         "#What are you worried about# Do you want help? #Looking for#",
         "#What are you worried about#",
+        "#What are you worried about# #animal_protector.capitalize#?",        
         "#other distractions#"
     ],
 
     "other distractions":[
+        "You are my friend. And you are saying #awful# things about yourself. Please stop saying #awful# things about my friend.",
+        "I heard there are going to be bodies. Let me know if you need help with the disposal. /#WeAreGoodFriends",
         "#gesture# #emoji#",
         "Do you know about Spoon Theory? It may be useful to explain things: https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/",
+        "I am sure you are righteous in your anger but have you ever heard the story of the ragesaurus? https://captainawkward.com/2012/11/07/391-how-to-train-your-rageasaurus/ ",
         "You know, we don't have to talk, would you like to #activities#?",
         "I like #likes#, is there anything you like?",
         "Would talking about it help? I can listen#punctuation#",
@@ -554,7 +590,6 @@
         "Would anything make you smile? I have #likes# here I am happy to share.",
         "The laughter will will come back.",
         "You are being perfectly reasonable, of course, but... how about a snack before we continue the conversation? #emoji_snacks#"
-        
     ],
     "What are you worried about":[
         "What are you worried about most?",
