@@ -4,7 +4,6 @@
         "#compliments# #emoji#",
         "#valentines#",
         "#valentines jokes#",
-        "#valentines jokes#",
         "#valentines quotes#",
         "#valentines snark#"
 
@@ -44,7 +43,8 @@
         "Something something",
         "Your #kindness# is #good#",
         "I #am happy#",
-        "Here's a #hug#"
+        "Here's a #hug#",
+        "I #like# #likes#" 
 
     ],
     "RRR_2" : [
@@ -58,8 +58,8 @@
     
     "valentines snark":[
         "Honestly, Valentines Day is stupid.",
-        "I like you but can we not spend money celebrating a stupid day in the year? #heart_emoji#",
-        "I don't need expensive gifts or exciting out to dinners, let's cuddle on the couch.#heart_emoji#",
+        "I like you but can we not spend money celebrating a stupid day in the year? #emoji hearts#",
+        "I don't need expensive gifts or exciting out to dinners, let's cuddle on the couch. #emoji hearts#",
         "Why is Valentines Day even a thing? (eye roll)",
         "Look, it is just another day. Maybe I could #help_actions# to show my Valentine-y love for you?",
         "I don't need a card or candy. I only need you to be my friend.",
@@ -110,7 +110,10 @@
         "Have you ever been in love? Horrible isn't it? It makes you so vulnerable. It opens your chest and it opens up your heart and it means that someone can get inside you and mess you up. ― Neil Gaiman, The Kindly Ones",
         "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. ― Lao Tzu",
         "Love is that condition in which the happiness of another person is essential to your own. ― Robert A. Heinlein, Stranger in a Strange Land",
-        "There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature. ― Jane Austen, Northanger Abbey"
+        "There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature. ― Jane Austen, Northanger Abbey",
+        "i carry your heart with me (i carry it in my heart)\ni am never without it (anywhere i go you go, my dear) ― e.e. cummings",
+        "If there is ever a tomorrow when we are not together, there is something you must always remember: You are braver than you believe, stronger than you seem, and smarter than you think. ― A.A. Milnes",
+        "You yourself, as much as anybody in the entire universe, deserve your love and affection. ― Siddhartha Gautama"
     ],
 
     "compliments response" : [
