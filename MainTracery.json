@@ -1,19 +1,28 @@
 {
     "origin": [
-        "#distractions#\n#gesture#",
-        "#distractions#",
-        "#reassurance#",
-        "#reassurance# #gesture#",
-        "#reassurance# #emoji#  #emoji#",
-        "#wishes#\n#emoji#",
-        "#wishes#"
+        "#in use# #emoji#",
+        "#in use# #gesture#",
+        "#in use# #emoji#",
+        "#in use# #emoji#\n#emoji#",
+        "#in use# #emoji#\n#gesture#\n#emoji#",
+        "#in use# #emoji# #gesture#"
     ],
-    "temporarily unused":[
-        "#compliments# #emoji#",
+    "in use": [
+        "#compliments#",
         "Reminder: #reminders#",
         "#toughlove#",
-        "#sympathy#\n#gesture#"
+        "#sympathy#",
+        "#distractions#",
+        "#distractions#",
+        "#reassurance.capitalize#",
+        "#wishes#",
+        "#wishes#"
     ],
+
+
+    "temporarily unused":[
+    ],
+
     "compliments response" : [
         "#compliments#",
         "#compliments# #emoji#",
@@ -24,18 +33,34 @@
 	    "#emoji#"
     ],
     "compliments": [
-        "I #like# your #kindness##punctuation#",
+        "I #likeandlike# your #kindnesses##punctuation#",
         "You are #good##punctuation#",
-        "Your #kindness# is #good##punctuation#",
+        "Your #kindness# is #goodandgood##punctuation#",
         "Please hang in there, you are #good##punctuation#",
         "I #like# that #you are here and##punctuation##emoji#" ,
         "I #am happy# that #you are here and##punctuation##emoji#" ,
-        "You are still you and I #like# you#punctuation#",
+        "You are still you and I #likeandlike# you#punctuation#",
         "I love you#punctuation#",
         "Somebody loves you#punctuation#",
-        "Somebody thinks you are #good# and they are not wrong#punctuation#",
-        "Your life makes a difference.",
+        "Somebody thinks you are #goodandgood# and they are not wrong#punctuation#",
+        "Your #kindness# makes a difference.",
         "You are my favorite #animal_protector#"
+    ],
+    "likeandlike" :[
+        "#like#",
+        "#like#",
+        "#like# and #likeandlike#"
+    ],
+    "kindnesses":[
+        "#kindness#",
+        "#kindness#",
+        "#kindness# and #kindnesses"
+    ],
+    "goodandgood" :[
+        "#good#",
+        "#very# #good#",
+        "#good#",
+        "#good# and #goodandgood#"
     ],
     "you are here and":[
         "#you are here#",
@@ -48,9 +73,9 @@
         "you are who you are",
         "I get to know you",
         "you have survived so much",
-        "you can show your #kindness# in #good# ways",
-        "you are #good#",
-        "you are still showing us how #good# you are"
+        "you can show your #kindnesses# in #goodandgood# ways",
+        "you are #goodandgood#",
+        "you are still showing us how #goodandgood# you are"
     ],
     "am happy":[
         "am happy",
@@ -84,6 +109,9 @@
         "competence",
         "toughness",
         "compassion",
+        "goodness",
+        "enthusiasm",
+        "passion",
         "empathy",
         "bravery",
         "helpfulness",
@@ -99,13 +127,34 @@
         "awesome",
         "great",
         "kickass",
-
         "beautiful to me",
         "wonderful",
+        "marvelous",
+        "suberb",
+        "super",
+        "splendid",
+        "fabulous",
+        "magic",
+        "cool",
+        "brilliant",
         "good",
-        "good",
-        "good",
+        "excellent",
         "important"
+    ],
+    "very":[
+        "very", 
+        "extremely", 
+        "exceedingly", 
+        "exceptionally", 
+        "especially", 
+        "tremendously", 
+        "immensely", 
+        "extraordinarily", 
+        "remarkably", 
+        "really", 
+        "unreasonably",
+        "perfectly",
+        "truly"
     ],
     "punctuation": [
         "!",
@@ -124,23 +173,28 @@
     ],
     "when":[
         "when",
+        "whenever",
         "if"
     ],
 
     "you_can_do_it":[
+        "you can get through this",
+        "you are not alone",
+        "it will get better",
+        "you have this",
         "You can do this",
         "You've got this",
         "You #are_strong#",
         "You do you",
         "#be_ok.capitalize#",
-        "It is #good# to #be_ok#",
+        "It is #goodandgood# to #be_ok#",
         "It is #normal# to #be_ok#"
     ],
 
     "like_you":[
-        "I will still #like# your #kindness",
+        "I will still #likeandlike# your #kindnesses",
         "#be_ok.capitalize# if you want",
-        "You are #good#",
+        "You are #goodandgood#",
         "I #like# you",
         "Don't let anyone tell you differently",
         "",
@@ -169,23 +223,22 @@
         "hurting",
         "unhappy",
         "in a black mood",
-        "unreasonably angry",
+        "#very# angry",
         "worried about that interview",
         "drowning in anxious thoughts",
         "filled with self-loathing",
         "feeling awful",
         "thinking you'll never #be_ok#",
-        "fighting brain weasels"
+        "fighting brain weasels",
+        "fighting mental #badger.s#"
     ],
 
     "calming_thoughts":[
         "imagine you are sitting next to #animal_protector.a#",
-        "imagine me hugging you",
-        "remember this will make an excellent story one day",
+        "imagine me holding out a #hug# to you",
+        "remember this will make #good.a# story one day",
         "consider this will make a hilarious story one day",
         "pretend you will #be_ok# for the for the next five minutes, then re-evaluate",
-        "remember there are many streaming kitten cams",
-        "use a coworker's computer to look up how to build a flamethrower",
         "remember you #are_strong#",
         "#breathe_deeply#",
         "#activities#",
@@ -201,17 +254,18 @@
         "attack", "guard", "helper", "rescue", "handy", "friendly", "ferocious", "emotional-support", "supportive", "invisible"
         ],
     "badger":[
-        "badger", "porcupine", "hedgehog", "dolphin", "octopus", "fish", "platypus", "dinosaur", "skunk", "golden retriever"
+        "badger", "porcupine", "hedgehog", "dolphin", "octopus", "fish", "platypus", "dinosaur", "skunk", "golden retriever",
+        "dog", "pig", "cat", "puppy", "kitten", "bunny", "pangolin", "penguin", "goat"    
     ],
 
     "breathe_deeply":[
         "breathe deeply",
         "breathe deeply so you have enough oxygen in your brain to start shouting",
         "take a breath and let it out",
-        "take a breath and let it out in a scream",
         "take a deep breath",
-        "breathe in and breathe out; let the #negative_emotion# #fly# away"
-
+        "breathe in and breathe out; let the #negative_emotion# #fly# away",
+        "#be_ok#",
+        "breathe in and focus on whether you should decide it is time to #be_ok#"
     ],
 
     "be_ok":[
@@ -315,7 +369,7 @@
         "#Hi#",
         "Everything ok with you?",
         "Would it help if I told you everyone feels this way sometimes?",
-        "#negative_emotion.capitalize# is a way of saying something here is not right.",
+        "#negative_emotion.capitalize# is a way of saying something here is not #good#.",
         "No, no, don’t apologize for feeling #negative_emotion#",
         "#Let it go#",
         "Well, that #sucks#. But it doesn't define you#punctuation#"
@@ -336,30 +390,36 @@
         "I #like# #likes#, "
     ],
     "wishes_post": [
-        "take the time you need.",
-        "I hope it gets better#punctuation#",
-        "I wish #good# things for you#punctuation#",
+        "#I hope it gets better##punctuation#",
+        "#negative is normal#",
+        "#breathe_deeply.capitalize#.",
+        "let's #activities#",
+        "#how are you#?",
+        "#wishes_post#"
+    ],
+    "I hope it gets better":[
+        "I wish #goodandgood# things for you",
+        "I have faith in your #kindnesses#",
+        "I wish I could make you feel better. #distractions#",
+        "may the strength of the past reflect in your future",
+        "I hope it gets better",
+        "asking for help is a sign of strength",
+        "take the time you need",
+        "repeat this to yourself: 'That’s just their way.'",
+        "difficult as this feels, I know you can get through it",
+        "#I hope it gets better##punctuation# #I hope it gets better.capitalize#"
+    ],
+    "how are you" : [
         "would a #hug# or #hug# help?",
         "how about some #hug.s#?",
-        "would a #little# #hug# help? I would be happy to give you as many as you’d take#punctuation#",
-        "I wish I could make you feel better. #distractions#",
-        "how are you#howareyoumodifier#?",
-        "what's it like for you?",
-        "how is it going for you?",
-        "I have faith in you#punctuation#",
-        "difficult as this feels, I know you can get through it#punctuation#",
+        "how are you#howareyoumodifier#",
+        "what's it like for you",
+        "how is it going for you"
+    ],
+    "negative is normal": [
         "#negative_emotion# is #normal##punctuation#",
         "#negative_emotion# is #normal##punctuation# #wishes_post.capitalize#",
-        "#negative_emotion# is #normal##punctuation#\n#wishes_post.capitalize#",
-        "you are not alone#punctuation#",
-        "it will get better#punctuation#",
-        "you have this#punctuation#",
-        "you can get through this#punctuation#",
-        "#reassurance#",
-        "asking for help is a sign of strength.",
-        "may the strength of the past reflect in your future.",
-        "#breathe_deeply.capitalize#. Repeat this to yourself: 'That’s just their way.'",
-        "let's #activities#"
+        "#negative_emotion# is #normal##punctuation#\n#wishes_post.capitalize#"
     ],
     "negative_emotion": [
         "guilt",
@@ -375,7 +435,7 @@
         "normal",
         "ok",
         "reasonable",
-        "perfectly normal",
+        "#very# normal",
         "frustrating but normal",
         "fine"
     ],
@@ -403,7 +463,8 @@
         "smile",
         "joke",
         "hand to hold",
-        "#emoji_snacks#"
+        "#emoji_snacks#",
+        "#hug# and #hug.s#"
     ],
     "sympathy": [
         "#I'm sorry# #emoji#",
@@ -425,12 +486,13 @@
         "hello",
         "Hello",
         "Hi there",
+        "Yo! ",
         ""
     ],
     "sucks":[
         "is #awful#",
-        "is #awful#",
-        "is #awful#",
+        "is #awful# and #awful#",
+        "is #awful# and #sucks#",
         "is #awful#",
         "is #awful#",
         "sucks",
@@ -478,22 +540,31 @@
         "What can I do to help?",
         "Maybe I could #help_actions#?",
         "#emoji#",
-        "#Anything I can do#",
+        "#Anything I can do# #Anything I can do#",
         ""
     ],
     "help_actions": [
+        "#help_action#",
+        "#help_action#",
+        "#help_action# or #help_actions#",
+        "#help_actions# or #activities#"
+    ],    
+    "help_action": [
         "help with the housework",
         "do some grocery shopping",
         "drive you to an appointment",
         "do some yard work",
+        "talk the dog for a walk",
+        "clean the kitty litter",
+        "go through paperwork with you",
         "read to you"
     ],
 
     "Let it go":[
         "Let it go",
-        "Let it g#ooo#",
         "Let it go. #you are here.capitalize#",
-        "#breathe_deeply.capitalize#"
+        "#breathe_deeply.capitalize#",
+        "Let it go: #breathe_deeply#"
     ],
     "ooo":[
         "oooo",
@@ -544,20 +615,18 @@
         "get a snack: #emoji_snacks#",
         "talk about something else entirely",
         "listen to music, you choose",
-        "pet a #animal#",
+        "pet a #badger#",
         "go to the #place#",
         "get a snack",
         "try to remember a happier time",
         "find a streaming kitten cam",
         "take a moment to consider if you need to #activities#",
-        "find a trusty attack badger",
+        "find a #animal_protector#",
         "concentrate on what you *have* accomplished instead of focusing on #negative_emotion#"
     ],
-    "animal": [
-        "dog", "pig", "cat", "puppy", "kitten", "bunny", "pangolin", "penguin", "goat"
-    ],
     "place":[
-        "museum", "aquarium", "mall", "beach", "bookstore", "yarn store", "farm wherre the goats live"
+        "museum", "aquarium", "mall", "beach", "bookstore", "yarn store", "forest",
+        "farm where the goats live", "place where we can see baby #badger.s#"
     ],
     "time": [
         "next week",
@@ -571,11 +640,16 @@
         "#What are you worried about# #Anything I can do#",
         "#What are you worried about# Do you want help? #Looking for#",
         "#What are you worried about#",
-        "#What are you worried about# #animal_protector.capitalize#?",        
-        "#other distractions#"
+        "#What are you worried about# Would #animal_protector.a# help?",        
+        "#other distractions#",
+        "#other distractions#",
+        "#other distractions#",
+        "#quotes#",
+        "#jokes#"
     ],
 
     "other distractions":[
+        "Would a #little# #hug# help? I would be happy to give you as many as you’d take#punctuation#",
         "You are my friend. And you are saying #awful# things about yourself. Please stop saying #awful# things about my friend.",
         "I heard there are going to be bodies. Let me know if you need help with the disposal. /#WeAreGoodFriends",
         "#gesture# #emoji#",
@@ -589,13 +663,15 @@
         "What were the #times_adjective# times like?",
         "Would anything make you smile? I have #likes# here I am happy to share.",
         "The laughter will will come back.",
-        "You are being perfectly reasonable, of course, but... how about a snack before we continue the conversation? #emoji_snacks#"
+        "You are being perfectly reasonable, of course, but... how about a snack before we continue the conversation? #emoji_snacks#",
+        "#other distractions# #otherdistractions#"
     ],
     "What are you worried about":[
         "What are you worried about most?",
         "What are your next steps and... ",
         "What are you biggest concerns right now?",
         "What are you looking for right now?",
+        "What would your #animal_protector# suggest?",
         "Forget about what you think other people think you should do, what do you want?",
         "Forget about *should*, what do you want?",
         "What are you looking for right now? #Looking for#"
@@ -614,17 +690,22 @@
         "#Looking for# #Looking for#"
     ],
     "likes": [
-        "#animal.s#",
-        "cute animal videos",
+        "#like items#",
+        "#like items#",
+        "#like items# and #likes#"
+    ],
+    "like items": [
+        "#badgers.s#",
+        "cute #badger# videos",
         "strange sea creatures",
         "the color purple",
         "the way the sky looks after it rains",
         "ocean waves",
         "the smell of lemons",
-        "cat purrs",
+        "#badger# purrs",
         "dark chocolate",
         "fuzzy blankets",
-        "snoring dogs",
+        "snoring #badger.s#",
         "#layeredthings#",
         "#hug.s#",
         "eating #emoji_snacks#s", 
@@ -635,7 +716,8 @@
         "hardest",
         "best",
         "worst",
-        "loneliest"
+        "loneliest",
+        "#very# #times_adjective#"
     ],
     "reminders": [
         "One #little# action is worth a thousand nice thoughts.",
@@ -654,7 +736,7 @@
         "It is ok to set limits.",
         "Sometimes it is their whole life but they may still want to talk to someone about anything else. Distractions are good.",
         "\nYou mustn’t feel guilty that you didn’t know\n especialy if you weren’t told.\nSometimes people aren’t ready to share their burdens.\nThat can be a good decision for them. \nAnd it isn't about you.",
-        "It is ok to set boundaries.",
+        "It is ok to set boundaries. #boundaries.a#",
         "Don’t pressure the person to come up with or have answers to plan-making questions, especially immediate answers, just change the habit from eternal doom to eternal doom + maybe naming one tiny action.",
         "Sometimes don’t give advice. Don’t offer solutions. Don’t feed the spiral. Just sit there with the person for a second and say *I see you.*",
         "It is ok to say something like \n *I’m so sorry, that must feel #awful#. I really think it’s time to call in the cavalry and get some professional help.*",
@@ -683,12 +765,14 @@
     "toughlove":[
         "You've been #complaining# about this, #what are you going to do#",
         "I feel like I've been supportive of you on this topic but I wonder if you need more of a push: #what are you going to do",
-        "Maybe you need to set boundaries. Say it with me: #boundaries#",
         "Do you want to keep #complaining# or start doing?",
-        "A++ in denial and compartmentalization. But you know it is going to leak out into your life in sneaky ways, right?",
-        "I know this is a huge part of your life and I want to be there for you but I miss talking with you about other things.",
+
+        "Maybe you need to set boundaries. Say it with me: #boundaries#",
         "#boundaries.capitalize#",
         "Repeat after me: #boundaries.capitalize#",
+
+        "A++ in denial and compartmentalization. But you know it is going to leak out into your life in sneaky ways, right?",
+        "I know this is a huge part of your life and I want to be there for you but I miss talking with you about other things.",
         "That sounds serious, maybe you should keep a diary or journal to track it?"
     ],
 
@@ -724,7 +808,37 @@
         "@A_single_bear",
         "@NaturelsWeird",
         "@ZooBorns"
+    ],
+    "jokes" : [
+        "What did the stamp say to the envelope? \n I’m stuck on you!",
+        "What did one volcano say to the other? \n I lava you!",
+        "What did the cucumber say to the pickle? \n You mean a great dill to me.",
+        "What did the one sheep say to the other? \n I love ewe!\n\n And how did the other sheep respond? \n You’re not so baaaaaa-d yourself!",
+        "What did one light bulb say to the other light bulb? \n I wuv you watts and watts!",
+        "What does an octopus say to its best friend? \n I want to hold your hand, hand, hand, hand, hand, hand, hand, hand!",
+        "What do owls say to declare their love? \n Owl be yours!",
+        "What did one bee say to the other?  \n I love bee-ing with you, honey!",
+        "Why are skunks so nice to each other? \n They are very scent-imental creatures.",
+        "What do you call two birds in love? \n Tweethearts!",
+        "Q: What did one font say to the other?\n A: You’re just my type.",
+        "Q: What did the drum say to the other?\n A: My heart beats for you.",
+        "Q: What did the calculator say to the pencil?\nA: You can always count on me.",
+        "Q: What did the circle say to the triangle?\nA: I think you’re acute.",
+        "Q: What did the bat say to his friend?\nA: You’re fun to hang around with."
+    ],
+    "quotes" : [
+        "I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best. ― Marilyn Monroe",
+        "You know you're in love when you can't fall asleep because reality is finally better than your dreams. ― Dr. Seuss",
+        "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that. ― Martin Luther King Jr.",
+        "Have you ever been in love? Horrible isn't it? It makes you so vulnerable. It opens your chest and it opens up your heart and it means that someone can get inside you and mess you up. ― Neil Gaiman, The Kindly Ones",
+        "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. ― Lao Tzu",
+        "Love is that condition in which the happiness of another person is essential to your own. ― Robert A. Heinlein, Stranger in a Strange Land",
+        "There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature. ― Jane Austen, Northanger Abbey",
+        "i carry your heart with me (i carry it in my heart)\ni am never without it (anywhere i go you go, my dear) ― e.e. cummings",
+        "If there is ever a tomorrow when we are not together, there is something you must always remember: You are braver than you believe, stronger than you seem, and smarter than you think. ― A.A. Milnes",
+        "You yourself, as much as anybody in the entire universe, deserve your love and affection. ― Siddhartha Gautama"
     ]
+
 }
 
 
