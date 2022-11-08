@@ -9,30 +9,22 @@
         "#in use# #emoji# #gesture#"
     ],
     "in use": [
-        "#you are my friend#",
-        "#toughlove#",
         "#You deserve good things#",
+        "#you are my friend#",
         "#sciency#",
-
+        "#gratitude#",
         "#compliments#",
         "Reminder: #reminders#",
         "#sympathy#",
         "#distractions#",
         "#reassurance.capitalize#",
         "#wishes#"
+
 
     ],
 
     "temporarily unused":[
-        "#compliments#",
-        "Reminder: #reminders#",
-        "#toughlove#",
-        "#sympathy#",
-        "#distractions#",
-        "#distractions#",
-        "#reassurance.capitalize#",
-        "#wishes#",
-        "#wishes#"
+        "#toughlove#"
     ],
 
     "compliments response" : [
@@ -62,7 +54,11 @@
         "Shame is the fear of being unlovable, unworthy of love and belonging. It is not true.",
         "Think of others who’ve gone through this before, especially people you admire.",
         "See this as a burden shared by many. You are part of a community of people experiencing this one feeling at this very moment.",
-        "Our thoughts often focus on the negative because the element that that our danger-focuses brain deems important are usually the negative ones. This is called negativity bias."
+        "Our thoughts often focus on the negative because the element that that our danger-focuses brain deems important are usually the negative ones. This is called negativity bias.",
+        "Compassion: \n 1. Acknowledge this is difficult. \n 2. Be kind and understanding, not critical. \n 3.Remember this is commonly experienced ",
+        "When things go #awful# in our lives, we often feel others having an easier time. Recognize that there may be more below the surface than you are seeing.",
+        "Everyone is afraid of rejection. However, rejection is usually more about the rejector than the rejectee.",
+        "If you need to refuse, be direct. Offer a different option or a suggestion. Don’t explain first. Don't even explain after. The explanations tend to hurt more than the refusal."
     ],
     "Feel awful about feeling awful":[
         "Not only do we feel #awful_stat#, we feel #awful_stat# about feeling #awful_stat#."
@@ -72,11 +68,24 @@
         "#negative is normal.capitalize#",
         "One of the main reasons that #negativity_is# difficult to handle: we feel they *shouldnt* be happening. #[awful_stat:#awful]Feel awful about feeling awful#",
         "One of the main reasons that #negativity_is# difficult to handle: we feel they *shouldnt* be happening.",
+        "One of the main reasons that #negativity_is# difficult to handle: we feel they *shouldnt* be happening. This is #normal#.",
         "It is not #awful# to be thinking or feeling whatever it is that you are thinking or feeling. It is #normal#.",
-        "#sciency_singles"
+        "#sciency_singles#",
+        "#sciency_singles#",
+        "#sciency_singles#"
     ],
 
-      
+    "gratitude":[
+        "Before you rip into yourself for all the things you did wrong, recall the things you did right.",
+        "Acknowledge the #good# things you did.",
+        "Acknowledge the #good# things other people have done for you.",
+        "Acknowledge the #kindness# before you forget.",
+        "Hey, you seem full of #happiness#, share it the world.",
+        "What can you do to make someone else’s day a little better?",
+        "What can you do to make someone else’s day #good#?",
+        "Encourage someone, you never know if your words spark #good##punctuation#"
+    ],
+
     "likeandlike" :[
         "#like#",
         "#like#",
@@ -118,6 +127,7 @@
         "am overjoyed",
         "am thrilled"
     ],
+
     "like": [
         "like",
         "love",
@@ -125,18 +135,15 @@
         "admire",
         "respect",
         "trust",
-        "believe in"
+        "believe in",
+        "#like-emoji#"
     ],
 
     "I like": [
-        "I like",
-        "I love",
-        "I appreciate",
-        "I admire",
+        "I #like#",
+        "I #like#",
+        "I #like-emoji#",
         "I am inspired by",
-        "I respect",
-        "I trust",
-        "I believe in",
         "I am glad of",
         "I #am happy# with",
         "I #am happy# with"
@@ -169,6 +176,7 @@
         "love",
         "passion",
         "laughter",
+        "joy",
         "compassion",
         "#hug.s#"
     ],
@@ -179,6 +187,7 @@
         "kickass",
         "beautiful to me",
         "wonderful",
+        "phenomenal",
         "marvelous",
         "suberb",
         "super",
@@ -189,6 +198,9 @@
         "brilliant",
         "good",
         "excellent",
+        "priceless",
+        "deserving",
+        "perfect",
         "important"
     ],
     "very":[
@@ -226,26 +238,41 @@
     ],
     "reassurance":[
         "#you_can_do_it##punctuation# #like_you##punctuation#",
-        "#when.capitalize# you are #nervous#, #calming_thoughts##punctuation#"
+        "#when.capitalize# you are #nervous#, #calming_thoughts##punctuation#",
+        "You are not #worthless#!",
+        "You are more than the #negativity says you are.",
+        "If all else fails, blame it on me (or my #animal_protector#).",
+        "As you wish.",
+        "I know you are #nervous#, but what is the best case?"
+
     ],
     "when":[
         "when",
         "whenever",
         "if"
     ],
-
+    "nice":[
+        "nice",
+        "polite"
+    ],
+    "kind":[
+        "kind",
+        "polite"
+    ],
     "you_can_do_it":[
-        "you can get through this",
-        "you are not alone",
-        "it will get better",
-        "you have this",
+        "You can get through this",
+        "You are not alone",
+        "It will get better",
+        "You have this",
         "You can do this",
         "You've got this",
         "You #are_strong#",
         "You do you",
         "#be_ok.capitalize#",
         "It is #goodandgood# to #be_ok#",
-        "It is #normal# to #be_ok#"
+        "It is #normal# to #be_ok#",
+        "If you need permission, you have mine. Now go do it"
+
     ],
 
     "like_you":[
@@ -302,7 +329,7 @@
         "#activities#",
         "visualize your #animal_protector#",
         "do not let these #awful# thought win.",
-        "take a momet to consider if you need to #activities#"
+        "take a moment to consider if you need to #activities#"
     ],
 
     "animal_protector" : [
@@ -314,7 +341,7 @@
     "badger":[
         "badger", "porcupine", "hedgehog", "dolphin", "octopus", "fish", "platypus", "dinosaur", "skunk", "golden retriever",
         "dog", "pig", "cat", "puppy", "kitten", "bunny", "pangolin", "penguin", "goat", "unicorn", "dragon", "eagle", 
-        "tree", "patronus", "horse", "pony"
+        "tree", "patronus", "horse", "pony", "cheese"
     ],
 
     "breathe_deeply":[
@@ -355,6 +382,14 @@
         "🍭", "🍮", "🥧", "🎂", "🍰", "🍦", "🍬", "🍫", "🍿", "🍩", "🍪",  "️🍵", 
 	"🍦", "🍫", "☕️", "🍰", "🍧", "🍨", "🎂"
     ],
+    "like-emoji":[
+        "💙","💜","🧡","💛","💚",
+        "💖","💓","💕","💝","💟",
+        "💗", "💗","💗", "💗", "💗", "💗","💗", "💗",
+        "#like-emoji##like-emoji#",
+        "#like-emoji# #like-emoji#"
+    ],
+
     "emoji": [
         "❤️",
         "🐙",
@@ -450,11 +485,10 @@
     ],
     "wishes_post": [
         "#I hope it gets better##punctuation#",
-        "#negative is normal.capitalize#",
-        "#breathe_deeply.capitalize#.",
+        "#negative is normal#",
+        "#breathe_deeply#.",
         "let's #activities#",
-        "#how are you#?",
-        "#wishes_post#"
+        "#how are you#?"
     ],
     "I hope it gets better":[
         "I wish #goodandgood# things for you",
@@ -491,7 +525,6 @@
         "whatever you are feeling",
         "frustration",
         "sad",
-        "emotions",
         "being annoyed",
         "feeling irritated by everything",
         "feeling guilty",
@@ -593,9 +626,17 @@
         "wrong",
         "bad",
         "hard",
-        "tough",
+        "difficult",
         "mean",
-        "shitty"
+        "shitty"        
+    ],
+    "worthless": [
+        "worthless",
+        "powerless",
+        "thankless",
+        "#awful#",
+        "#awful#",
+        "#awful# or #worthless#"
     ],
     "I'm sorry": [
         "I'm sorry.",
@@ -631,6 +672,7 @@
         "As your friend I don’t always know how to help but I don’t want to leave you hanging.",
         "I don't know if I can help but asking doesn't make you a burden. I just don't know what to offer. Please ask.",
         "What can I do to help?",
+        "You only ever had to ask.",
         "Maybe I could #help_actions#?",
         "#emoji#",
         "#Anything I can do# #Anything I can do#",
@@ -674,9 +716,6 @@
         "",
         "",
         "",
-        "#you are my friend#",
-        "#you are my friend# #gesture#",
-        "#you are my friend# #emoji#",
         "#compliments#",
         "#compliments# #gesture#",
         "#compliments# #emoji#",
@@ -746,15 +785,24 @@
     ],
     "friend":[
         "friend",
+        "friend",
+        "friend",
+        "friend",
         "hero",
         "inspiration",
         "best friend",
         "favorite person",
         "favorite",
+        "companion",
+        "family",
+        "#animal_protector#",
         "wind beneath my wings"
     ],
     "you are my friend defined" : [
-        "You are my #friend_stat#. And you are saying #awful_stat# things about yourself. Please stop saying #awful_stat# things about my #friend_stat#."
+        "You are my #friend_stat#. And you are saying #awful_stat# things about yourself. Please stop saying #awful_stat# things about my #friend_stat#.",
+        "You are my #friend_stat#. Please stop saying #awful_stat# things about my #friend_stat#.",
+        "Dear #friend_stat#, I know you feel like you did something #awful_stat#. But that doesn't make you #awful_stat#.",
+        "#friend_stat.capitalize#, What you did was a bit #awful_stat#. But that doesn't make you #awful_stat#. Please always remain my #friend_stat#"
     ],
     "you are my friend": [
         "You are my #friend##punctuation#",
@@ -767,7 +815,7 @@
         "Do you know about Spoon Theory? It may be useful to explain things: https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/",
         "I am sure you are righteous in your anger but have you ever heard the story of the ragesaurus? https://captainawkward.com/2012/11/07/391-how-to-train-your-rageasaurus/ ",
         "You know, we don't have to talk, would you like to #activities#?",
-        "#I like # #likes#, is there anything you #like#?",
+        "#I like# #likes#, is there anything you #like#?",
         "Would talking about it help? I can listen#punctuation#",
         "If you need space, that's fine with me. But #when# you are ready, please let me know if you'd like to do something. For examples, we could #activities#.",
         "I totally understand wanting to be alone right now but if you decide a little company would be nice, maybe we can #activities# #time#.",
@@ -776,7 +824,7 @@
         "The laughter will will come back.",
         "You are being perfectly reasonable, #of course#, but... how about a snack before we continue the conversation? #emoji_snacks#",
         "What can you do to make someone else’s day a little better?",    
-        "#other distractions# #otherdistractions#"
+        "#other distractions# #other distractions#"
     ],
     "What are you worried about":[
         "What are you worried about most?",
@@ -809,6 +857,7 @@
     "like items": [
         "#badgers.s#",
         "cute #badger# videos",
+        "doodling",
         "strange sea creatures",
         "the color purple",
         "the way the sky looks after it rains",
@@ -877,7 +926,8 @@
     "toughlove_doing":[
         "You've been #complaining# about this, #what are you going to do#",
         "I feel like I've been supportive of you on this topic but I wonder if you need more of a push: #what are you going to do",
-        "Do you want to keep #complaining# or start doing?"
+        "Do you want to keep #complaining# or start doing?",
+        "There is a difference between being #nice# and being #kind#. Now is the time for #kindness#."
     ],
     "toughlove_boundaries":[
         "Maybe you need to set boundaries. Say it with me: #boundaries#",
@@ -922,8 +972,9 @@
         "what are your next steps and... #Anything I can do#?",
         "what do you think you'll do about it?",
         "what do you want to do next?",
-        "do something to fix it."
-
+        "do something to fix it.",
+        "imagine saying 'yes, and' instead of 'yes, but'",
+        "visualize it being better, how do you get there?"
     ],
     "layeredthings": [
         "croissants",
@@ -969,7 +1020,4 @@
         "If there is ever a tomorrow when we are not together, there is something you must always remember: You are braver than you believe, stronger than you seem, and smarter than you think. ― A.A. Milnes",
         "You yourself, as much as anybody in the entire universe, deserve your love and affection. ― Siddhartha Gautama"
     ]
-
 }
-
-
