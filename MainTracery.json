@@ -19,8 +19,6 @@
         "#distractions#",
         "#reassurance.capitalize#",
         "#wishes#"
-
-
     ],
 
     "temporarily unused":[
@@ -48,17 +46,24 @@
         "Somebody loves you#punctuation#",
         "Somebody thinks you are #goodandgood# and they are not wrong#punctuation#",
         "Your #kindness# makes a difference.",
-        "You are my favorite #animal_protector#"
+        "You are my favorite #animal_protector#",
+        "For what it's worth, I #am happy# with how you're handling things",
+        "I have full confidence that you'll work through this.",
+        "Know that I think the world of you."
     ],
     "sciency_singles":[
         "Shame is the fear of being unlovable, unworthy of love and belonging. It is not true.",
-        "Think of others who’ve gone through this before, especially people you admire.",
+        "Think of others who've gone through this before, especially people you admire.",
         "See this as a burden shared by many. You are part of a community of people experiencing this one feeling at this very moment.",
         "Our thoughts often focus on the negative because the element that that our danger-focuses brain deems important are usually the negative ones. This is called negativity bias.",
         "Compassion: \n 1. Acknowledge this is difficult. \n 2. Be kind and understanding, not critical. \n 3.Remember this is commonly experienced ",
         "When things go #awful# in our lives, we often feel others having an easier time. Recognize that there may be more below the surface than you are seeing.",
         "Everyone is afraid of rejection. However, rejection is usually more about the rejector than the rejectee.",
-        "If you need to refuse, be direct. Offer a different option or a suggestion. Don’t explain first. Don't even explain after. The explanations tend to hurt more than the refusal."
+        "If you need to refuse, be direct. Offer a different option or a suggestion. Don't explain first. Don't even explain after. The explanations tend to hurt more than the refusal.",
+        "Kindness starts with you. If you've judged yourself harshly over the years, you need to let go of that. Remember, part of being authentically nice is embracing the real you, and you can't do that if you're busy beating yourself up for the things you've done imperfectly in the past.",
+        "There's nothing inherently good or bad about any emotion. Emotions just are. They're simply reactions to a situation.",
+        "If someone is venting or sharing a negative experience, do not jump in with advice unless they ask for it. Similarly, resist the urge to point out silver linings or how the situation could be worse. ",
+        "Giving unsolicited advice or assurance—especially before you validate the other person's emotions—trivializes their experience. It suggests that 1) you don't think they should feel the way they do, and 2) you know how to resolve the issue better than they do."
     ],
     "Feel awful about feeling awful":[
         "Not only do we feel #awful_stat#, we feel #awful_stat# about feeling #awful_stat#."
@@ -66,8 +71,6 @@
       "sciency":[
         "#of course.capitalize# #negative is normal#",
         "#negative is normal.capitalize#",
-        "One of the main reasons that #negativity_is# difficult to handle: we feel they *shouldnt* be happening. #[awful_stat:#awful]Feel awful about feeling awful#",
-        "One of the main reasons that #negativity_is# difficult to handle: we feel they *shouldnt* be happening.",
         "One of the main reasons that #negativity_is# difficult to handle: we feel they *shouldnt* be happening. This is #normal#.",
         "It is not #awful# to be thinking or feeling whatever it is that you are thinking or feeling. It is #normal#.",
         "#sciency_singles#",
@@ -81,10 +84,12 @@
         "Acknowledge the #good# things other people have done for you.",
         "Acknowledge the #kindness# before you forget.",
         "Hey, you seem full of #happiness#, share it the world.",
-        "What can you do to make someone else’s day a little better?",
-        "What can you do to make someone else’s day #good#?",
-        "Encourage someone, you never know if your words spark #good##punctuation#"
+        "What can you do to make someone else's day a little better?",
+        "What can you do to make someone else's day #good#?",
+        "Encourage someone, you never know if your words spark #good##punctuation#",
+        "t is easier to be generous to another than to yourself, but imagining #happiness# for a friend makes it thinkable for yourself. "
     ],
+
 
     "likeandlike" :[
         "#like#",
@@ -125,7 +130,8 @@
         "am pleased",
         "am tickled",
         "am overjoyed",
-        "am thrilled"
+        "am thrilled",
+        "am impressed"
     ],
 
     "like": [
@@ -159,12 +165,17 @@
         "compassion",
         "goodness",
         "enthusiasm",
+        "excitement",
+        "confidence",
+        "gratitude",
         "passion",
         "empathy",
         "bravery",
         "helpfulness",
         "laughter",
         "humor",
+        "safety",
+        "sense of security",
         "sense of humor",
         "you-ness",
         "stories",
@@ -177,11 +188,14 @@
         "passion",
         "laughter",
         "joy",
+        "greatness",
         "compassion",
         "#hug.s#"
     ],
     "good": [
         "amazing",
+        "happy",
+        "positive",
         "awesome",
         "great",
         "kickass",
@@ -234,7 +248,8 @@
         "You deserve #happiness#.",
         "#of course.capitalize# you deserve #happiness#.",
         "Everybody deserves #happiness#.",
-        "You are worthy of #happiness#."
+        "You are worthy of #happiness#.",
+        "You deserve a place in this world. A place where you can feel #goodandgood# and have #happiness#. Never apologize for insisting on it. For fighting for it.”"
     ],
     "reassurance":[
         "#you_can_do_it##punctuation# #like_you##punctuation#",
@@ -250,14 +265,6 @@
         "when",
         "whenever",
         "if"
-    ],
-    "nice":[
-        "nice",
-        "polite"
-    ],
-    "kind":[
-        "kind",
-        "polite"
     ],
     "you_can_do_it":[
         "You can get through this",
@@ -298,10 +305,22 @@
         "weak", 
         "defective",
         "lazy",
+        "hopeless",
+        "wrong",
         "crazy"  
     ],
+
+
     "nervous":[
         "nervous",
+        "worried",
+        "unhappy",
+        "angry",
+        "scared",
+        "mad",
+        "hurt",
+        "confused",
+        "frustrated",
         "anxious",
         "overwhelmed",
         "hurting",
@@ -361,6 +380,8 @@
         "be sad",
         "be happy",
         "be angry",
+        "break down",
+        "get angry",
         "feel the way you do",
         "forget about it for awhile",
         "go on",
@@ -464,7 +485,7 @@
         "Everything ok with you?",
         "Would it help if I told you everyone feels this way sometimes?",
         "#negativity.capitalize# is a way of saying something here is not #good#.",
-        "No, no, don’t apologize for feeling #negativity#",
+        "No, no, don't apologize for feeling #negativity#",
         "#Let it go#",
         "Well, that #sucks#. But it doesn't define you#punctuation#"
     ],
@@ -474,7 +495,7 @@
         "i know this is #awful# for you, ",
         "Good day and bad days, ",
         "I am sorry, ",
-        "Oh, sweetie! I'm sorry, ",
+        "Oh, sweetie! #I'm sorry#, ",
         "I hope you don't mind, I just heard, and ",
         "I can not imagine what you are going through, ",
         "This must be #awful#, ",
@@ -498,7 +519,7 @@
         "I hope it gets better",
         "asking for help is a sign of strength",
         "take the time you need",
-        "repeat this to yourself: 'That’s just their way.'",
+        "repeat this to yourself: 'That's just their way.'",
         "difficult as this feels, I know you can get through it",
         "#I hope it gets better##punctuation# #I hope it gets better.capitalize#"
     ],
@@ -520,11 +541,17 @@
         "#negativity#, #negativity#, and #negativity# are"
     ],
     "negativity": [
+        "worry",
+        "fear",
+        "anxiety",
+        "uncertainty",
         "guilt",
         "anger",
         "whatever you are feeling",
         "frustration",
-        "sad",
+        "sadness",
+        "loneliness",
+        "tiredness",
         "being annoyed",
         "feeling irritated by everything",
         "feeling guilty",
@@ -532,7 +559,8 @@
         "negative thoughts",
         "negative emotions",
         "negative internal experiences",
-        "anxiety",
+        "being upset",
+        "being stressed",
         "negativity"
     ],
     "normal": [
@@ -584,13 +612,16 @@
         "You've done the best you could with the tools you had. It is ok.",
         "I'm thinking about you#punctuation#",
         "That is #awful#.",
+        "I don't envy you. That really is a #awful# situation.",
+        "My deepest condolences. You're going through a #very# #awful# time.",
         "How are you feeling about what happened?",
         "You will feel better one day but for now... #Anything I can do#",
         "Of course I'm curious about what led to this... but I hope you are doing ok, that's the important part.",
         "#Hi#, that sounds #awful#. #I heard you#.",
         "That sounds like it feels #awful#. #I'm sorry# #I heard you# #Anything I can do#",
         "#I'm sorry# #I heard you# #Anything I can do#",
-        "#I heard you# #Anything I can do#"
+        "#I heard you# #Anything I can do#",
+        "I realize you appear to be great on the outside, but I understand that's likely masking what you feel on the inside.  It's okay to #be_ok#"
     ],
     "of course":[
         "of course",
@@ -627,7 +658,11 @@
         "bad",
         "hard",
         "difficult",
+        "heavy",
         "mean",
+        "painful",
+        "horrible",
+        "tough",
         "shitty"        
     ],
     "worthless": [
@@ -642,17 +677,24 @@
         "I'm sorry.",
         "I'm sorry you are going through this.",
         "I'm so sorry.",
+        "Oh my gosh. I am so sorry.",
         "#emoji#",
         "",
         ""
     ],
     "I heard you":[
         "I don't know what to say but I heard you.",
+        "I can't even imagine what you must be going through right now.",
+        "I honestly don't know what to say. I can only imagine how #awful# that must be.",
+        "I get that you're #nervous#. It would be tough not to be given the situation.",
         "Words! I wish I could give you more than that. But I don't want to make it worse. So I'm not even sure words are the right thing.",
-        "Sometimes I don’t say anything because I have no idea what to say and I’m afraid of saying something that will make it worse.",
-        "I don’t have the focus or energy to be the listening/comforting friend today, but I didn’t want you to think nobody was listening.",
-        "I'm sorry but right now I can't talk, could you look at #twitter_handle# for a bit until I'm free?",
+        "Sometimes I don't say anything because I have no idea what to say and I'm afraid of saying something that will make it worse.",
+        "I don't have the focus or energy to be the listening/comforting friend today, but I didn't want you to think nobody was listening.",
         "I see you#punctuation#",
+        "It's not easy to talk about such heavy things. I admire your courage in bringing it up and appreciate that you shared it with me.",
+        "I really appreciate you opening up to me. It means a lot.",
+        "It must have been hard for you to come to me about this, so thank you. I sincerely appreciate your openness.",
+        "Thank you for saying something. I'm sure it was tough to bring this up, especially since you couldn't know how I would react.",
         "#emoji#",
         "",
         ""
@@ -669,9 +711,10 @@
         "What do you want to do next?",
         "I want you to know I'm here for you.",
         "Is there anything I could say right now that would help you feel #better#?",
-        "As your friend I don’t always know how to help but I don’t want to leave you hanging.",
+        "As your friend I don't always know how to help but I don't want to leave you hanging.",
         "I don't know if I can help but asking doesn't make you a burden. I just don't know what to offer. Please ask.",
         "What can I do to help?",
+        "Please know that I'm here for you",
         "You only ever had to ask.",
         "Maybe I could #help_actions#?",
         "#emoji#",
@@ -720,8 +763,8 @@
         "#compliments# #gesture#",
         "#compliments# #emoji#",
         "xxoo",
-        "xxoo",
-        "I’m happy you feel safe with me.",
+        "xoxo",
+        "I'm happy you feel safe with me.",
         "Let's go #activities#!",
         "I have #hug.a# for you!",
         "I'm mentally sending you #hug.a##punctuation#",
@@ -747,7 +790,6 @@
         "talk about whatever you want",
     	"chat about #likes#",
         "play a game",
-        "giggle at #twitter_handle# together",
         "get a snack: #emoji_snacks#",
         "talk about something else entirely",
         "listen to music, you choose",
@@ -798,6 +840,7 @@
         "#animal_protector#",
         "wind beneath my wings"
     ],
+
     "you are my friend defined" : [
         "You are my #friend_stat#. And you are saying #awful_stat# things about yourself. Please stop saying #awful_stat# things about my #friend_stat#.",
         "You are my #friend_stat#. Please stop saying #awful_stat# things about my #friend_stat#.",
@@ -808,8 +851,9 @@
         "You are my #friend##punctuation#",
         "#[friend_stat:#friend#][awful_stat:#awful#]you are my friend defined#"
     ],
+
     "other distractions":[
-        "Would a #little# #hug# help? I would be happy to give you as many as you’d take#punctuation#",
+        "Would a #little# #hug# help? I would be happy to give you as many as you'd take#punctuation#",
         "I heard there are going to be bodies. Let me know if you need help with the disposal. /#WeAreGoodFriends",
         "#gesture# #emoji#",
         "Do you know about Spoon Theory? It may be useful to explain things: https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/",
@@ -823,11 +867,15 @@
         "Would anything make you smile? I have #likes# here I am happy to share.",
         "The laughter will will come back.",
         "You are being perfectly reasonable, #of course#, but... how about a snack before we continue the conversation? #emoji_snacks#",
-        "What can you do to make someone else’s day a little better?",    
+        "What can you do to make someone else's day a little better?",    
         "#other distractions# #other distractions#"
     ],
     "What are you worried about":[
         "What are you worried about most?",
+        "I have a few thoughts on that. May I share them?",
+        "Would you like my opinion?",
+        "May I tell you how I see it?",
+        "Could I share my two cents?",
         "What are your next steps and... ",
         "What are you biggest concerns right now?",
         "What are you looking for right now?",
@@ -869,8 +917,7 @@
         "snoring #badger.s#",
         "#layeredthings#",
         "#hug.s#",
-        "eating #emoji_snacks#s", 
-        "reading #twitter_handle#"
+        "eating #emoji_snacks#s"
     ],
     "times_adjective": [
         "happiest",
@@ -896,18 +943,18 @@
         "Yes, sending a card would be lovely. And enough.",
         "It is ok to set limits.",
         "Sometimes it is their whole life but they may still want to talk to someone about anything else. Distractions are good.",
-        "\nYou mustn’t feel guilty that you didn’t know\n especialy if you weren’t told.\nSometimes people aren’t ready to share their burdens.\nThat can be a good decision for them. \nAnd it isn't about you.",
+        "\nYou mustn't feel guilty that you didn't know\n especialy if you weren't told.\nSometimes people aren't ready to share their burdens.\nThat can be a good decision for them. \nAnd it isn't about you.",
         "It is ok to set boundaries. #boundaries.a#",
-        "Don’t pressure the person to come up with or have answers to plan-making questions, especially immediate answers, just change the habit from eternal doom to eternal doom + maybe naming one tiny action.",
-        "Sometimes don’t give advice. Don’t offer solutions. Don’t feed the spiral. Just sit there with the person for a second and say *I see you.*",
-        "It is ok to say something like \n *I’m so sorry, that must feel #awful#. I really think it’s time to call in the cavalry and get some professional help.*",
+        "Don't pressure the person to come up with or have answers to plan-making questions, especially immediate answers, just change the habit from eternal doom to eternal doom + maybe naming one tiny action.",
+        "Sometimes don't give advice. Don't offer solutions. Don't feed the spiral. Just sit there with the person for a second and say *I see you.*",
+        "It is ok to say something like \n *I'm so sorry, that must feel #awful#. I really think it's time to call in the cavalry and get some professional help.*",
         "Thank you to Kelsey Crowe and Emily McDowell. Their book _There Is No Good Card For This_ is a great resource on how to be a good friend.",
         "Captain Awkward (https://captainawkward.com/) is an amazing resource for what to say and how to say it.",
         "#kindness.capitalize# is built in layers, like #layeredthings#.",
         "Sometimes I have to remember: #boundaries.capitalize#",
         "Do you know about the Ring Theory of kvetching? It is useful: http://articles.latimes.com/2013/apr/07/opinion/la-oe-0407-silk-ring-theory-20130407",
         "This is sad but a good reminder of what some people may be going through: https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/ #SpoonTheory",
-        "I need what I need – I’m not doing it to make you feel #awful#, but if you feel a little #negativity#, I can live with that. I’ll have to take care of myself."
+        "I need what I need - I'm not doing it to make you feel #awful#, but if you feel a little #negativity#, I can live with that. I'll have to take care of myself."
     ],
 
     "boundaries": [
@@ -915,7 +962,7 @@
         "it is okay if others get angry.",
         "it is okay to say no.",
         "it is not my job to take responsibility for others.",
-        "I don’t have to anticipate the needs of others.",
+        "I don't have to anticipate the needs of others.",
         "it is my job to make me happy.",
         "nobody has to agree with me.",
         "I have a right to my own feelings.",
@@ -924,10 +971,11 @@
         "it is ok not to be normal."
     ], 
     "toughlove_doing":[
+        "Holding on to #awful# loss can make us react in ways we can't predict, much less understand.",
         "You've been #complaining# about this, #what are you going to do#",
         "I feel like I've been supportive of you on this topic but I wonder if you need more of a push: #what are you going to do",
         "Do you want to keep #complaining# or start doing?",
-        "There is a difference between being #nice# and being #kind#. Now is the time for #kindness#."
+        "There is a difference between being nice and being kind. Now is the time for #kindness#."
     ],
     "toughlove_boundaries":[
         "Maybe you need to set boundaries. Say it with me: #boundaries#",
@@ -935,8 +983,8 @@
         "Repeat after me: #boundaries.capitalize#"
     ],
     "toughlove_singles":[
-        "If you can’t fix the big things, maybe fix a few little things.",
-        "If you can’t fix the big things, maybe fix a few unrelated things.",
+        "If you can't fix the big things, maybe fix a few little things.",
+        "If you can't fix the big things, maybe fix a few unrelated things.",
         "A++ in denial and compartmentalization. But you know it is going to leak out into your life in sneaky ways, right?",
         "I know this is a huge part of your life and I want to be there for you but I miss talking with you about other things.",
         "That sounds serious, maybe you should keep a diary or journal to track it?",
@@ -983,31 +1031,24 @@
     	"rainbows",
         "clouds in the sky"
     ],
-    "twitter_handle":[
-        "@EmrgencyKittens",
-        "@dog_rates",
-        "@CuteEmergency",
-        "@A_single_bear",
-        "@NaturelsWeird",
-        "@ZooBorns"
-    ],
     "jokes" : [
-        "What did the stamp say to the envelope? \n I’m stuck on you!",
+        "What did the stamp say to the envelope? \n I'm stuck on you!",
         "What did one volcano say to the other? \n I lava you!",
         "What did the cucumber say to the pickle? \n You mean a great dill to me.",
-        "What did the one sheep say to the other? \n I love ewe!\n\n And how did the other sheep respond? \n You’re not so baaaaaa-d yourself!",
+        "What did the one sheep say to the other? \n I love ewe!\n\n And how did the other sheep respond? \n You're not so baaaaaa-d yourself!",
         "What did one light bulb say to the other light bulb? \n I wuv you watts and watts!",
         "What does an octopus say to its best friend? \n I want to hold your hand, hand, hand, hand, hand, hand, hand, hand!",
         "What do owls say to declare their love? \n Owl be yours!",
         "What did one bee say to the other?  \n I love bee-ing with you, honey!",
         "Why are skunks so nice to each other? \n They are very scent-imental creatures.",
         "What do you call two birds in love? \n Tweethearts!",
-        "Q: What did one font say to the other?\n A: You’re just my type.",
+        "Q: What did one font say to the other?\n A: You're just my type.",
         "Q: What did the drum say to the other?\n A: My heart beats for you.",
         "Q: What did the calculator say to the pencil?\nA: You can always count on me.",
-        "Q: What did the circle say to the triangle?\nA: I think you’re acute.",
-        "Q: What did the bat say to his friend?\nA: You’re fun to hang around with."
+        "Q: What did the circle say to the triangle?\nA: I think you're acute.",
+        "Q: What did the bat say to his friend?\nA: You're fun to hang around with."
     ],
+
     "quotes" : [
         "I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best. ― Marilyn Monroe",
         "You know you're in love when you can't fall asleep because reality is finally better than your dreams. ― Dr. Seuss",
@@ -1018,6 +1059,16 @@
         "There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature. ― Jane Austen, Northanger Abbey",
         "i carry your heart with me (i carry it in my heart)\ni am never without it (anywhere i go you go, my dear) ― e.e. cummings",
         "If there is ever a tomorrow when we are not together, there is something you must always remember: You are braver than you believe, stronger than you seem, and smarter than you think. ― A.A. Milnes",
-        "You yourself, as much as anybody in the entire universe, deserve your love and affection. ― Siddhartha Gautama"
+        "You yourself, as much as anybody in the entire universe, deserve your love and affection. ― Siddhartha Gautama",
+        "About a month ago, I bought a small transistor radio in a junk shop run by a man as tall as a grandfather clock, a pink plastic one from the nineteen fifties, which plays only love songs from the past, as if the radio had a memory and a melancholy disposition. ― Billy Collins",
+        "Breathe slowly. Smell the roses (inhale, through your nose), blow out the candles (exhale completely out of your mouth). Again. Breathe. You're going to be okay. You've felt this before—these feelings you have right now. Uncomfortable. Anxious. Embarrassed. Afraid. You've felt them, and you have survived. Breathe, and know you will survive this, too, wiser and stronger.  ― Jennifer Cook, Autism in High Heels",
+        "There's good news about anxiety: you'll be most anxious about a decision when you're trying to pick between good choices. Psychologists call this the win-win paradox. ― _No Hard Feelings_",
+        "In 1783, Samuel Johnson talked of his depression as a black dog: When I rise my breakfast is solitary, the black dog waits to share it, from breakfast to dinner he continues barking... Night comes at last, and some hours of restlessness and confusion bring me again to a day of solitude. What shall exclude the black dog from a habitation like this?",
+        "Vivek Murthy, former surgeon general of the United States, wrote in the Harvard Business Review that 'Loneliness and weak social connections are associated with a reduction in lifespan similar to that caused by smoking 15 cigarettes a day.'",
+        "No one is all one thing. We are not the worst things about us, nor are we the best things. We are all capable of harm and bad decisions. We are all capable of love and care. We have all been hurt and experienced loss. We all have successes and things we are good at. ―Mia Birdsong",
+        "Resilience is something that you will always need. It will help you get through the toughest parts of life, and no matter how successful you are, there will always be tough parts. Resilience is not how you feel in the moment when something happens, but how you continue afterward.  ― Arlan Hamilton",
+        "We talk down to ourselves, saying things that we would never say about our loved ones. We walk around feeling like frauds, second-guessing ourselves and trying to push down the fear that someone is going to find out that we don't know what we're doing. ― Arlan Hamilton",
+        "I'm going to tell you something important. Grown-ups don't look like grown-ups on the inside either. Outside, they're big and thoughtless and they always know what they're doing. Inside, they look just like they always have. Like they did when they were your age. The truth is, there aren't any grown-ups. Not one, in the whole wide world. ― Neil Gaiman",
+        "Sometimes memories fall out of our eyes as tears that simply bring hope to our hearts."
     ]
 }
