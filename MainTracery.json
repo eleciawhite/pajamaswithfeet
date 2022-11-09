@@ -83,11 +83,11 @@
         "Acknowledge the #good# things you did.",
         "Acknowledge the #good# things other people have done for you.",
         "Acknowledge the #kindness# before you forget.",
-        "Hey, you seem full of #happiness#, share it the world.",
+        "Hey, you seem full of #happiness#, share it with the world.",
         "What can you do to make someone else's day a little better?",
         "What can you do to make someone else's day #good#?",
         "Encourage someone, you never know if your words spark #good##punctuation#",
-        "t is easier to be generous to another than to yourself, but imagining #happiness# for a friend makes it thinkable for yourself. "
+        "It is easier to be generous to another than to yourself, but imagining #happiness# for a friend makes it thinkable for yourself. "
     ],
 
 
@@ -236,7 +236,7 @@
         "!",
         ".",
         ".",
-        "",
+        "\n",
         ".#punctuation#",
         "!#punctuation#",
         "#punctuation# #gesture#",
@@ -245,11 +245,10 @@
     ],
     "You deserve good things": [
         "You deserve #good# things.",
-        "You deserve #happiness#.",
         "#of course.capitalize# you deserve #happiness#.",
         "Everybody deserves #happiness#.",
         "You are worthy of #happiness#.",
-        "You deserve a place in this world. A place where you can feel #goodandgood# and have #happiness#. Never apologize for insisting on it. For fighting for it.”"
+        "You deserve a place in this world. A place where you can feel #goodandgood# and have #happiness#. Never apologize for insisting on it. For fighting for it."
     ],
     "reassurance":[
         "#you_can_do_it##punctuation# #like_you##punctuation#",
@@ -658,11 +657,9 @@
         "bad",
         "hard",
         "difficult",
-        "heavy",
         "mean",
         "painful",
         "horrible",
-        "tough",
         "shitty"        
     ],
     "worthless": [
@@ -837,8 +834,7 @@
         "favorite",
         "companion",
         "family",
-        "#animal_protector#",
-        "wind beneath my wings"
+        "#animal_protector#"
     ],
 
     "you are my friend defined" : [
@@ -854,7 +850,7 @@
 
     "other distractions":[
         "Would a #little# #hug# help? I would be happy to give you as many as you'd take#punctuation#",
-        "I heard there are going to be bodies. Let me know if you need help with the disposal. /#WeAreGoodFriends",
+        "I heard there are going to be bodies. Let me know if you need help with the disposal.",
         "#gesture# #emoji#",
         "Do you know about Spoon Theory? It may be useful to explain things: https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/",
         "I am sure you are righteous in your anger but have you ever heard the story of the ragesaurus? https://captainawkward.com/2012/11/07/391-how-to-train-your-rageasaurus/ ",
@@ -862,7 +858,7 @@
         "#I like# #likes#, is there anything you #like#?",
         "Would talking about it help? I can listen#punctuation#",
         "If you need space, that's fine with me. But #when# you are ready, please let me know if you'd like to do something. For examples, we could #activities#.",
-        "I totally understand wanting to be alone right now but if you decide a little company would be nice, maybe we can #activities# #time#.",
+        "I totally understand wanting to be alone right now but if you decide a little company would be nice, maybe we can #activities#.",
         "What were the #times_adjective# times like?",
         "Would anything make you smile? I have #likes# here I am happy to share.",
         "The laughter will will come back.",
